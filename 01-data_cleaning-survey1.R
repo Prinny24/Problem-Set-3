@@ -1,8 +1,8 @@
 #### Preamble ####
-# Purpose: Prepare and clean the survey data downloaded from [...UPDATE ME!!!!!]
-# Author: Rohan Alexander and Sam Caetano [CHANGE THIS TO YOUR NAME!!!!]
+# Purpose: Prepare and clean the survey data downloaded from voterstudygroup.com
+# Author: Pablo Mercado, Benjamin Zhang, Daniel Leung, Diane Kim
 # Data: 22 October 2020
-# Contact: rohan.alexander@utoronto.ca [PROBABLY CHANGE THIS ALSO!!!!]
+# Contact: pablo.mercado@mail.utoronto.ca
 # License: MIT
 # Pre-requisites: 
 # - Need to have downloaded the data from X and save the folder that you're 
@@ -21,23 +21,11 @@ raw_data <- labelled::to_factor(raw_data)
 # Just keep some variables
 reduced_data <- 
   raw_data %>% 
-  select(interest,
-         registration,
-         vote_2016,
-         vote_intention,
-         vote_2020,
-         ideo5,
-         employment,
-         foreign_born,
-         gender,
-         census_region,
-         hispanic,
+  select(vote_2020,
          race_ethnicity,
          household_income,
          education,
-         state,
-         congress_district,
-         age)
+         state)
 
 
 #### What else???? ####
@@ -48,7 +36,12 @@ reduced_data <-
 reduced_data<-
   reduced_data %>%
   mutate(vote_trump = 
-           ifelse(vote_2020=="Donald Trump", 1, 0))
+           ifelse(vote_2020=="Donald Trump", 1, 0),
+         vote_biden = 
+           ifelse(vote_2020=="Joe Biden", 1, 0),
+         )
+
+
 
 # Saving the survey/sample data as a csv file in my
 # working directory
