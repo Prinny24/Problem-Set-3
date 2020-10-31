@@ -31,13 +31,22 @@ reduced_data1 <-
          ftotinc) %>%
   filter(stateicp != "state groupings (1980 urban/rural sample)",
          stateicp != "military/mil. reservations",
-         stateicp != "state not identified")
+         stateicp != "state not identified") %>%
+  mutate(race =
+           ifelse(race == "white", "Caucasian", "Not Caucasian"))
+  
          
 #### What's next? ####
 
 ## Here I am only splitting cells by age, but you 
 ## can use other variables to split by changing
 ## count(age) to count(age, sex, ....)
+
+reduced_data1$ftotinc[reduced_data1$ftotinc <= 14999] = "$0 - $15k: living in poverty"
+reduced_data1$ftotinc[reduced_data1$ftotinc %in% 15000:34999] = "$15k - $35k: low income"
+reduced_data1$ftotinc[reduced_data1$ftotinc %in% 35000:69999] = "$35k - $70k: middle class"
+reduced_data1$ftotinc[reduced_data1$ftotinc %in% 70000:149999] = "$70 - $150k: upper middle class"
+reduced_data1$ftotinc[reduced_data1$ftotinc %in% 150000:1500000] = "$150k+ : upper class"
 
 reduced_data1$stateicp <- gsub("connecticut","CT",reduced_data1$stateicp)
 reduced_data1$stateicp <- gsub("maine","ME",reduced_data1$stateicp)
@@ -90,6 +99,25 @@ reduced_data1$stateicp <- gsub("hawaii","HI",reduced_data1$stateicp)
 reduced_data1$stateicp <- gsub("oklahoma","OK",reduced_data1$stateicp)
 reduced_data1$stateicp <- gsub("tennessee","TN",reduced_data1$stateicp)
 reduced_data1$stateicp <- gsub("district of columbia","DC",reduced_data1$stateicp)
+
+reduced_data1$educ <- gsub("n/a or no schooling", "No highschool diploma", reduced_data1$educ, fixed=TRUE)
+reduced_data1$educ <- gsub("nursery school to grade 4", "No highschool diploma", reduced_data1$educ, fixed=TRUE)
+reduced_data1$educ <- gsub("grade 5, 6, 7, or 8", "No highschool diploma", 
+                           reduced_data1$educ, fixed=TRUE)
+reduced_data1$educ <- gsub("grade 9", "No highschool diploma", 
+                           reduced_data1$educ, fixed=TRUE)
+reduced_data1$educ <- gsub("grade 10", "No highschool diploma", 
+                           reduced_data1$educ, fixed=TRUE)
+reduced_data1$educ <- gsub("grade 11", "No highschool diploma", 
+                           reduced_data1$educ, fixed=TRUE)
+reduced_data1$educ <- gsub("grade 12", "No highschool diploma", 
+                           reduced_data1$educ, fixed=TRUE)
+reduced_data1$educ <- gsub("1 year of college","Highschool diploma" , reduced_data1$educ, fixed=TRUE)
+reduced_data1$educ <- gsub("2 years of college", "Highschool diploma",reduced_data1$educ, fixed=TRUE)
+reduced_data1$educ <- gsub("3 years of college", "Highschool diploma",reduced_data1$educ, fixed=TRUE)
+reduced_data1$educ <- gsub("4 years of college", "Undergraduate degree", reduced_data1$educ, fixed=TRUE)
+reduced_data1$educ <- gsub("5+ years of college", "Graduate degree or more", reduced_data1$educ, fixed=TRUE)
+
 
 # Saving the census data as a csv file in my
 # working directory
