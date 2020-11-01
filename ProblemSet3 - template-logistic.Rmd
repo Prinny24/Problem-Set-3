@@ -42,8 +42,8 @@ Where $y$ represents the proportion of voters who will vote for Donald Trump. Si
 ```{r, include=FALSE}
 
 #bayesian
-model <- brm(vote_trump ~ as.factor(race_ethnicity) + as.factor(household_income) + as.factor(education) +
-               (1|state), data = sdata, family = bernoulli())
+model <- brm(vote_trump ~ race_ethnicity + household_income + education +
+               (1|state), data = survey_data, family = bernoulli())
 
 summary(model)
 
@@ -56,6 +56,9 @@ In order to estimate the proportion of voters who will vote for Donald Trump I n
 ```{r, include=TRUE}
 
 # Here I will perform the post-stratification calculation
+
+colnames(census_data) <- c("state", "race_ethnicity", "education", "household_income")
+
 census_data$logodds_estimate <-
   model %>%
   predict(newdata = census_data)
