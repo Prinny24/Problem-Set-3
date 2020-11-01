@@ -75,7 +75,7 @@ reduced_data$education <- gsub("Other post high school vocational training", "Hi
 reduced_data$education <- gsub("Completed some college, but no degree", "Highschool diploma", reduced_data$education, fixed=TRUE)
 reduced_data$education <- gsub("Completed some college, but no degree", "Highschool diploma", reduced_data$education, fixed=TRUE)
 reduced_data$education <- gsub("Associate Degree", "Highschool diploma", reduced_data$education, fixed=TRUE)
-reduced_data$education <- gsub("College Degree (such as B.A, B.S.)", "Undergraduate degree", reduced_data$education, fixed=TRUE)
+reduced_data$education <- gsub("College Degree (such as B.A., B.S.)", "Undergraduate degree", reduced_data$education, fixed=TRUE)
 reduced_data$education <- gsub("Completed some graduate, but no degree", "Undergraduate degree", reduced_data$education, fixed=TRUE)
 reduced_data$education <- gsub("Masters degree", "Graduate degree or more", reduced_data$education, fixed=TRUE)
 reduced_data$education <- gsub("Doctorate degree", "Graduate degree or more", reduced_data$education, fixed=TRUE)

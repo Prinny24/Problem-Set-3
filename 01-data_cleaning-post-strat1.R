@@ -46,7 +46,17 @@ reduced_data1$ftotinc[reduced_data1$ftotinc <= 14999] = "$0 - $15k: living in po
 reduced_data1$ftotinc[reduced_data1$ftotinc %in% 15000:34999] = "$15k - $35k: low income"
 reduced_data1$ftotinc[reduced_data1$ftotinc %in% 35000:69999] = "$35k - $70k: middle class"
 reduced_data1$ftotinc[reduced_data1$ftotinc %in% 70000:149999] = "$70 - $150k: upper middle class"
-reduced_data1$ftotinc[reduced_data1$ftotinc %in% 150000:1500000] = "$150k+ : upper class"
+reduced_data1$ftotinc[reduced_data1$ftotinc %in% 150000:9999999] = "$150k+ : upper class"
+reduced_data1$ftotinc[reduced_data1$ftotinc == 1e+05] = "$150k+ : upper class"
+reduced_data1$ftotinc[reduced_data1$ftotinc == 1e+06] = "$150k+ : upper class"
+reduced_data1$ftotinc[reduced_data1$ftotinc == 2e+05] = "$150k+ : upper class"
+reduced_data1$ftotinc[reduced_data1$ftotinc == 3e+05] = "$150k+ : upper class"
+reduced_data1$ftotinc[reduced_data1$ftotinc == 4e+05] = "$150k+ : upper class"
+reduced_data1$ftotinc[reduced_data1$ftotinc == 5e+05] = "$150k+ : upper class"
+reduced_data1$ftotinc[reduced_data1$ftotinc == 6e+05] = "$150k+ : upper class"
+reduced_data1$ftotinc[reduced_data1$ftotinc == 7e+05] = "$150k+ : upper class"
+reduced_data1$ftotinc[reduced_data1$ftotinc == 8e+05] = "$150k+ : upper class"
+reduced_data1$ftotinc[reduced_data1$ftotinc == 9e+05] = "$150k+ : upper class"
 
 reduced_data1$stateicp <- gsub("connecticut","CT",reduced_data1$stateicp)
 reduced_data1$stateicp <- gsub("maine","ME",reduced_data1$stateicp)
