@@ -8,7 +8,7 @@ output:
     df_print: paged
 ---
 
-```{r setup, include=FALSE}
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
 library(tidyverse)
 library(brms)
 library(broom)
@@ -42,7 +42,7 @@ Where $y$ represents the proportion of voters who will vote for Donald Trump. Si
 
 
 
-```{r}
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
 
 survey_data$education <- factor(survey_data$education, levels = c("No highschool diploma",
                                                                   "Highschool diploma",
@@ -56,7 +56,7 @@ model1 <- glmer(vote_trump ~ race_ethnicity + household_income + education +
 summary(model1)
 
 ```
-```{r}
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
 
 survey_data$education <- factor(survey_data$education, levels = c("No highschool diploma",
                                                                   "Highschool diploma",
@@ -75,7 +75,7 @@ summary(model2)
 
 In order to estimate the proportion of voters who will vote for Donald Trump I need to perform a post-stratification analysis. Here I create cells based off different ages. Using the model described in the previous sub-section I will estimate the proportion of voters in each age bin. I will then weight each proportion estimate (within each bin) by the respective population size of that bin and sum those values and divide that by the entire population size. 
 
-```{r, include=TRUE}
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
 
 # Here I will perform the post-stratification calculation
 
@@ -104,6 +104,47 @@ census_data %>%
 
 
 # Results
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+
+#graph
+
+census_data %>%
+  ggplot(aes(y = sum(estimate*n)/sum(n),x =forcats::fct_inorder(state),color ="MRP estimate")) +
+  geom_point() +
+  ylab("Proportion Trump Support") +
+  xlab("State") +
+  geom_point(data = survey_data %>%
+               group_by(state, vote_trump) %>%
+               summarise(n = n()) %>% 
+               group_by(state) %>% 
+               mutate(prop =n/sum(n)) %>%
+               filter(vote_trump==1),
+             aes(state, prop,color ="Raw data")) +
+  theme_minimal() +
+  scale_color_brewer(palette ="Set1") +
+  theme(legend.position ="bottom") +
+  theme(legend.title =element_blank()) +
+  theme(axis.text.x=element_text(angle=90, hjust=1))
+
+census_data %>%
+  ggplot(aes(y = sum(estimate2*n)/sum(n),x =forcats::fct_inorder(state),color ="MRP estimate")) +
+  geom_point() +
+  ylab("Proportion Biden Support") +
+  xlab("State") +
+  geom_point(data = survey_data %>%
+               group_by(state, vote_biden) %>%
+               summarise(n = n()) %>% 
+               group_by(state) %>% 
+               mutate(prop =n/sum(n)) %>%
+               filter(vote_biden==1),
+             aes(state, prop,color ="Raw data")) +
+  theme_minimal() +
+  scale_color_brewer(palette ="Set1") +
+  theme(legend.position ="bottom") +
+  theme(legend.title =element_blank()) +
+  theme(axis.text.x=element_text(angle=90, hjust=1))
+
+```
 
 Here you will include all results. This includes descriptive statistics, graphs, figures, tables, and model results. Please ensure that everything is well formatted and in a report style. You must also provide an explanation of the results in this section. 
 
