@@ -12,6 +12,7 @@ output:
 library(tidyverse)
 library(brms)
 library(broom)
+library(lme4)
 
 # Loading in the cleaned survey Data
 survey_data <- read_csv("outputs/survey_data.csv")
@@ -39,13 +40,34 @@ $$ y = \beta_0+\beta_1  x_{age} + \epsilon$$
 
 Where $y$ represents the proportion of voters who will vote for Donald Trump. Similarly, $\beta_0$ represents the intercept of the model, and is the probability of voting for Donald Trump at age 0. Additionally, $\beta_1$ represents the slope of the model. So, for everyone one unit increase in age, we expect a $\beta_1$ increase in the probability of voting for Donald Trump.
 
-```{r, include=FALSE}
 
-#bayesian
-model <- brm(vote_trump ~ race_ethnicity + household_income + education +
-               (1|state), data = survey_data, family = bernoulli())
 
-summary(model)
+```{r}
+
+survey_data$education <- factor(survey_data$education, levels = c("No highschool diploma",
+                                                                  "Highschool diploma",
+                                                                  "Undergraduate degree",
+                                                                  "Graduate degree or more"))
+
+#freguennist 
+model1 <- glmer(vote_trump ~ race_ethnicity + household_income + education +
+               (1|state), data = survey_data, family = binomial)
+
+summary(model1)
+
+```
+```{r}
+
+survey_data$education <- factor(survey_data$education, levels = c("No highschool diploma",
+                                                                  "Highschool diploma",
+                                                                  "Undergraduate degree",
+                                                                  "Graduate degree or more"))
+
+#freguennist 
+model2 <- glmer(vote_biden ~ race_ethnicity + household_income + education +
+               (1|state), data = survey_data, family = binomial)
+
+summary(model2)
 
 ```
 
@@ -57,18 +79,25 @@ In order to estimate the proportion of voters who will vote for Donald Trump I n
 
 # Here I will perform the post-stratification calculation
 
-colnames(census_data) <- c("state", "race_ethnicity", "education", "household_income")
-
 census_data$logodds_estimate <-
-  model %>%
+  model1 %>%
+  predict(newdata = census_data)
+
+census_data$logodds_estimate2 <-
+  model2 %>%
   predict(newdata = census_data)
 
 census_data$estimate <-
   exp(census_data$logodds_estimate)/(1+exp(census_data$logodds_estimate))
 
+census_data$estimate2 <-
+  exp(census_data$logodds_estimate2)/(1+exp(census_data$logodds_estimate2))
+
 census_data %>%
-  mutate(alp_predict_prop = estimate*n) %>%
-  summarise(alp_predict = sum(alp_predict_prop)/sum(n))
+  mutate(alp_predict_prop = estimate*n,
+         alp_predict_prop2 = estimate2*n) %>%
+  summarise(alp_predict_trump = sum(alp_predict_prop)/sum(n),
+            alp_predict_biden = sum(alp_predict_prop2)/sum(n))
 
 
 ```

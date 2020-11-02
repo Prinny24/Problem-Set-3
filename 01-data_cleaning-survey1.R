@@ -40,7 +40,9 @@ reduced_data<-
   mutate(vote_trump = 
            ifelse(vote_2020=="Donald Trump", 1, 0),
          race_ethnicity = 
-           ifelse(race_ethnicity != "White", "Not Caucasian", "Caucasian"))
+           ifelse(race_ethnicity != "White", "Not Caucasian", "Caucasian"),
+         vote_biden = 
+           ifelse(vote_2020=="Joe Biden", 1, 0))
 
 reduced_data$household_income <- gsub("Less than $14,999","$0 - $15k: living in poverty",reduced_data$household_income,fixed = TRUE)
 reduced_data$household_income <- gsub("$15,000 to $19,999","$15k - $35k: low income",reduced_data$household_income,fixed = TRUE)
@@ -79,8 +81,6 @@ reduced_data$education <- gsub("College Degree (such as B.A., B.S.)", "Undergrad
 reduced_data$education <- gsub("Completed some graduate, but no degree", "Undergraduate degree", reduced_data$education, fixed=TRUE)
 reduced_data$education <- gsub("Masters degree", "Graduate degree or more", reduced_data$education, fixed=TRUE)
 reduced_data$education <- gsub("Doctorate degree", "Graduate degree or more", reduced_data$education, fixed=TRUE)
-
-
 
 # Saving the survey/sample data as a csv file in my
 # working directory

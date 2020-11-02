@@ -129,9 +129,14 @@ reduced_data1$educ <- gsub("4 years of college", "Undergraduate degree", reduced
 reduced_data1$educ <- gsub("5+ years of college", "Graduate degree or more", reduced_data1$educ, fixed=TRUE)
 
 
+reduced_data2 <- reduced_data1 %>%
+                 count(stateicp, race, educ, ftotinc)
+
+colnames(reduced_data2) <- c("state", "race_ethnicity", "education", "household_income", "n")
+
 # Saving the census data as a csv file in my
 # working directory
-write_csv(reduced_data1, "outputs/census_data.csv")
+write_csv(reduced_data2, "outputs/census_data.csv")
 
 
 

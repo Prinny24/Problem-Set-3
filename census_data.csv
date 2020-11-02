@@ -1,0 +1,2040 @@
+state,race_ethnicity,education,household_income,n
+AK,Caucasian,Graduate degree or more,$0 - $15k: living in poverty,11
+AK,Caucasian,Graduate degree or more,$150k+ : upper class,151
+AK,Caucasian,Graduate degree or more,$15k - $35k: low income,21
+AK,Caucasian,Graduate degree or more,$35k - $70k: middle class,61
+AK,Caucasian,Graduate degree or more,$70 - $150k: upper middle class,134
+AK,Caucasian,Highschool diploma,$0 - $15k: living in poverty,62
+AK,Caucasian,Highschool diploma,$150k+ : upper class,206
+AK,Caucasian,Highschool diploma,$15k - $35k: low income,107
+AK,Caucasian,Highschool diploma,$35k - $70k: middle class,198
+AK,Caucasian,Highschool diploma,$70 - $150k: upper middle class,283
+AK,Caucasian,No highschool diploma,$0 - $15k: living in poverty,175
+AK,Caucasian,No highschool diploma,$150k+ : upper class,442
+AK,Caucasian,No highschool diploma,$15k - $35k: low income,210
+AK,Caucasian,No highschool diploma,$35k - $70k: middle class,422
+AK,Caucasian,No highschool diploma,$70 - $150k: upper middle class,589
+AK,Caucasian,Undergraduate degree,$0 - $15k: living in poverty,19
+AK,Caucasian,Undergraduate degree,$150k+ : upper class,191
+AK,Caucasian,Undergraduate degree,$15k - $35k: low income,48
+AK,Caucasian,Undergraduate degree,$35k - $70k: middle class,123
+AK,Caucasian,Undergraduate degree,$70 - $150k: upper middle class,228
+AK,Not Caucasian,Graduate degree or more,$0 - $15k: living in poverty,1
+AK,Not Caucasian,Graduate degree or more,$150k+ : upper class,16
+AK,Not Caucasian,Graduate degree or more,$15k - $35k: low income,8
+AK,Not Caucasian,Graduate degree or more,$35k - $70k: middle class,12
+AK,Not Caucasian,Graduate degree or more,$70 - $150k: upper middle class,19
+AK,Not Caucasian,Highschool diploma,$0 - $15k: living in poverty,37
+AK,Not Caucasian,Highschool diploma,$150k+ : upper class,106
+AK,Not Caucasian,Highschool diploma,$15k - $35k: low income,68
+AK,Not Caucasian,Highschool diploma,$35k - $70k: middle class,110
+AK,Not Caucasian,Highschool diploma,$70 - $150k: upper middle class,134
+AK,Not Caucasian,No highschool diploma,$0 - $15k: living in poverty,354
+AK,Not Caucasian,No highschool diploma,$150k+ : upper class,359
+AK,Not Caucasian,No highschool diploma,$15k - $35k: low income,443
+AK,Not Caucasian,No highschool diploma,$35k - $70k: middle class,656
+AK,Not Caucasian,No highschool diploma,$70 - $150k: upper middle class,566
+AK,Not Caucasian,Undergraduate degree,$0 - $15k: living in poverty,3
+AK,Not Caucasian,Undergraduate degree,$150k+ : upper class,35
+AK,Not Caucasian,Undergraduate degree,$15k - $35k: low income,11
+AK,Not Caucasian,Undergraduate degree,$35k - $70k: middle class,39
+AK,Not Caucasian,Undergraduate degree,$70 - $150k: upper middle class,53
+AL,Caucasian,Graduate degree or more,$0 - $15k: living in poverty,80
+AL,Caucasian,Graduate degree or more,$150k+ : upper class,902
+AL,Caucasian,Graduate degree or more,$15k - $35k: low income,161
+AL,Caucasian,Graduate degree or more,$35k - $70k: middle class,510
+AL,Caucasian,Graduate degree or more,$70 - $150k: upper middle class,1193
+AL,Caucasian,Highschool diploma,$0 - $15k: living in poverty,597
+AL,Caucasian,Highschool diploma,$150k+ : upper class,1025
+AL,Caucasian,Highschool diploma,$15k - $35k: low income,1054
+AL,Caucasian,Highschool diploma,$35k - $70k: middle class,1850
+AL,Caucasian,Highschool diploma,$70 - $150k: upper middle class,2459
+AL,Caucasian,No highschool diploma,$0 - $15k: living in poverty,2444
+AL,Caucasian,No highschool diploma,$150k+ : upper class,2645
+AL,Caucasian,No highschool diploma,$15k - $35k: low income,4065
+AL,Caucasian,No highschool diploma,$35k - $70k: middle class,5834
+AL,Caucasian,No highschool diploma,$70 - $150k: upper middle class,5986
+AL,Caucasian,Undergraduate degree,$0 - $15k: living in poverty,206
+AL,Caucasian,Undergraduate degree,$150k+ : upper class,1054
+AL,Caucasian,Undergraduate degree,$15k - $35k: low income,418
+AL,Caucasian,Undergraduate degree,$35k - $70k: middle class,1085
+AL,Caucasian,Undergraduate degree,$70 - $150k: upper middle class,1983
+AL,Not Caucasian,Graduate degree or more,$0 - $15k: living in poverty,45
+AL,Not Caucasian,Graduate degree or more,$150k+ : upper class,116
+AL,Not Caucasian,Graduate degree or more,$15k - $35k: low income,64
+AL,Not Caucasian,Graduate degree or more,$35k - $70k: middle class,179
+AL,Not Caucasian,Graduate degree or more,$70 - $150k: upper middle class,237
+AL,Not Caucasian,Highschool diploma,$0 - $15k: living in poverty,340
+AL,Not Caucasian,Highschool diploma,$150k+ : upper class,338
+AL,Not Caucasian,Highschool diploma,$15k - $35k: low income,550
+AL,Not Caucasian,Highschool diploma,$35k - $70k: middle class,646
+AL,Not Caucasian,Highschool diploma,$70 - $150k: upper middle class,506
+AL,Not Caucasian,No highschool diploma,$0 - $15k: living in poverty,1924
+AL,Not Caucasian,No highschool diploma,$150k+ : upper class,1009
+AL,Not Caucasian,No highschool diploma,$15k - $35k: low income,2082
+AL,Not Caucasian,No highschool diploma,$35k - $70k: middle class,2044
+AL,Not Caucasian,No highschool diploma,$70 - $150k: upper middle class,1176
+AL,Not Caucasian,Undergraduate degree,$0 - $15k: living in poverty,82
+AL,Not Caucasian,Undergraduate degree,$150k+ : upper class,116
+AL,Not Caucasian,Undergraduate degree,$15k - $35k: low income,140
+AL,Not Caucasian,Undergraduate degree,$35k - $70k: middle class,317
+AL,Not Caucasian,Undergraduate degree,$70 - $150k: upper middle class,315
+AR,Caucasian,Graduate degree or more,$0 - $15k: living in poverty,45
+AR,Caucasian,Graduate degree or more,$150k+ : upper class,443
+AR,Caucasian,Graduate degree or more,$15k - $35k: low income,101
+AR,Caucasian,Graduate degree or more,$35k - $70k: middle class,319
+AR,Caucasian,Graduate degree or more,$70 - $150k: upper middle class,642
+AR,Caucasian,Highschool diploma,$0 - $15k: living in poverty,420
+AR,Caucasian,Highschool diploma,$150k+ : upper class,656
+AR,Caucasian,Highschool diploma,$15k - $35k: low income,795
+AR,Caucasian,Highschool diploma,$35k - $70k: middle class,1358
+AR,Caucasian,Highschool diploma,$70 - $150k: upper middle class,1308
+AR,Caucasian,No highschool diploma,$0 - $15k: living in poverty,1930
+AR,Caucasian,No highschool diploma,$150k+ : upper class,1804
+AR,Caucasian,No highschool diploma,$15k - $35k: low income,3557
+AR,Caucasian,No highschool diploma,$35k - $70k: middle class,4777
+AR,Caucasian,No highschool diploma,$70 - $150k: upper middle class,3920
+AR,Caucasian,Undergraduate degree,$0 - $15k: living in poverty,153
+AR,Caucasian,Undergraduate degree,$150k+ : upper class,565
+AR,Caucasian,Undergraduate degree,$15k - $35k: low income,296
+AR,Caucasian,Undergraduate degree,$35k - $70k: middle class,711
+AR,Caucasian,Undergraduate degree,$70 - $150k: upper middle class,1146
+AR,Not Caucasian,Graduate degree or more,$0 - $15k: living in poverty,14
+AR,Not Caucasian,Graduate degree or more,$150k+ : upper class,46
+AR,Not Caucasian,Graduate degree or more,$15k - $35k: low income,25
+AR,Not Caucasian,Graduate degree or more,$35k - $70k: middle class,55
+AR,Not Caucasian,Graduate degree or more,$70 - $150k: upper middle class,80
+AR,Not Caucasian,Highschool diploma,$0 - $15k: living in poverty,165
+AR,Not Caucasian,Highschool diploma,$150k+ : upper class,141
+AR,Not Caucasian,Highschool diploma,$15k - $35k: low income,232
+AR,Not Caucasian,Highschool diploma,$35k - $70k: middle class,268
+AR,Not Caucasian,Highschool diploma,$70 - $150k: upper middle class,170
+AR,Not Caucasian,No highschool diploma,$0 - $15k: living in poverty,830
+AR,Not Caucasian,No highschool diploma,$150k+ : upper class,401
+AR,Not Caucasian,No highschool diploma,$15k - $35k: low income,1042
+AR,Not Caucasian,No highschool diploma,$35k - $70k: middle class,1066
+AR,Not Caucasian,No highschool diploma,$70 - $150k: upper middle class,623
+AR,Not Caucasian,Undergraduate degree,$0 - $15k: living in poverty,30
+AR,Not Caucasian,Undergraduate degree,$150k+ : upper class,54
+AR,Not Caucasian,Undergraduate degree,$15k - $35k: low income,72
+AR,Not Caucasian,Undergraduate degree,$35k - $70k: middle class,119
+AR,Not Caucasian,Undergraduate degree,$70 - $150k: upper middle class,124
+AZ,Caucasian,Graduate degree or more,$0 - $15k: living in poverty,167
+AZ,Caucasian,Graduate degree or more,$150k+ : upper class,1688
+AZ,Caucasian,Graduate degree or more,$15k - $35k: low income,363
+AZ,Caucasian,Graduate degree or more,$35k - $70k: middle class,987
+AZ,Caucasian,Graduate degree or more,$70 - $150k: upper middle class,1878
+AZ,Caucasian,Highschool diploma,$0 - $15k: living in poverty,920
+AZ,Caucasian,Highschool diploma,$150k+ : upper class,1913
+AZ,Caucasian,Highschool diploma,$15k - $35k: low income,1897
+AZ,Caucasian,Highschool diploma,$35k - $70k: middle class,3315
+AZ,Caucasian,Highschool diploma,$70 - $150k: upper middle class,3575
+AZ,Caucasian,No highschool diploma,$0 - $15k: living in poverty,2604
+AZ,Caucasian,No highschool diploma,$150k+ : upper class,4886
+AZ,Caucasian,No highschool diploma,$15k - $35k: low income,5299
+AZ,Caucasian,No highschool diploma,$35k - $70k: middle class,7968
+AZ,Caucasian,No highschool diploma,$70 - $150k: upper middle class,8223
+AZ,Caucasian,Undergraduate degree,$0 - $15k: living in poverty,436
+AZ,Caucasian,Undergraduate degree,$150k+ : upper class,2073
+AZ,Caucasian,Undergraduate degree,$15k - $35k: low income,871
+AZ,Caucasian,Undergraduate degree,$35k - $70k: middle class,1987
+AZ,Caucasian,Undergraduate degree,$70 - $150k: upper middle class,3142
+AZ,Not Caucasian,Graduate degree or more,$0 - $15k: living in poverty,45
+AZ,Not Caucasian,Graduate degree or more,$150k+ : upper class,306
+AZ,Not Caucasian,Graduate degree or more,$15k - $35k: low income,65
+AZ,Not Caucasian,Graduate degree or more,$35k - $70k: middle class,186
+AZ,Not Caucasian,Graduate degree or more,$70 - $150k: upper middle class,318
+AZ,Not Caucasian,Highschool diploma,$0 - $15k: living in poverty,368
+AZ,Not Caucasian,Highschool diploma,$150k+ : upper class,399
+AZ,Not Caucasian,Highschool diploma,$15k - $35k: low income,537
+AZ,Not Caucasian,Highschool diploma,$35k - $70k: middle class,791
+AZ,Not Caucasian,Highschool diploma,$70 - $150k: upper middle class,708
+AZ,Not Caucasian,No highschool diploma,$0 - $15k: living in poverty,1679
+AZ,Not Caucasian,No highschool diploma,$150k+ : upper class,1570
+AZ,Not Caucasian,No highschool diploma,$15k - $35k: low income,2254
+AZ,Not Caucasian,No highschool diploma,$35k - $70k: middle class,2937
+AZ,Not Caucasian,No highschool diploma,$70 - $150k: upper middle class,2312
+AZ,Not Caucasian,Undergraduate degree,$0 - $15k: living in poverty,113
+AZ,Not Caucasian,Undergraduate degree,$150k+ : upper class,291
+AZ,Not Caucasian,Undergraduate degree,$15k - $35k: low income,147
+AZ,Not Caucasian,Undergraduate degree,$35k - $70k: middle class,302
+AZ,Not Caucasian,Undergraduate degree,$70 - $150k: upper middle class,470
+CA,Caucasian,Graduate degree or more,$0 - $15k: living in poverty,825
+CA,Caucasian,Graduate degree or more,$150k+ : upper class,12527
+CA,Caucasian,Graduate degree or more,$15k - $35k: low income,1370
+CA,Caucasian,Graduate degree or more,$35k - $70k: middle class,3218
+CA,Caucasian,Graduate degree or more,$70 - $150k: upper middle class,7953
+CA,Caucasian,Highschool diploma,$0 - $15k: living in poverty,3738
+CA,Caucasian,Highschool diploma,$150k+ : upper class,11614
+CA,Caucasian,Highschool diploma,$15k - $35k: low income,5972
+CA,Caucasian,Highschool diploma,$35k - $70k: middle class,10432
+CA,Caucasian,Highschool diploma,$70 - $150k: upper middle class,15469
+CA,Caucasian,No highschool diploma,$0 - $15k: living in poverty,10852
+CA,Caucasian,No highschool diploma,$150k+ : upper class,27190
+CA,Caucasian,No highschool diploma,$15k - $35k: low income,18434
+CA,Caucasian,No highschool diploma,$35k - $70k: middle class,28668
+CA,Caucasian,No highschool diploma,$70 - $150k: upper middle class,34509
+CA,Caucasian,Undergraduate degree,$0 - $15k: living in poverty,1875
+CA,Caucasian,Undergraduate degree,$150k+ : upper class,14953
+CA,Caucasian,Undergraduate degree,$15k - $35k: low income,3138
+CA,Caucasian,Undergraduate degree,$35k - $70k: middle class,6833
+CA,Caucasian,Undergraduate degree,$70 - $150k: upper middle class,13039
+CA,Not Caucasian,Graduate degree or more,$0 - $15k: living in poverty,502
+CA,Not Caucasian,Graduate degree or more,$150k+ : upper class,6478
+CA,Not Caucasian,Graduate degree or more,$15k - $35k: low income,719
+CA,Not Caucasian,Graduate degree or more,$35k - $70k: middle class,1458
+CA,Not Caucasian,Graduate degree or more,$70 - $150k: upper middle class,3657
+CA,Not Caucasian,Highschool diploma,$0 - $15k: living in poverty,2451
+CA,Not Caucasian,Highschool diploma,$150k+ : upper class,6016
+CA,Not Caucasian,Highschool diploma,$15k - $35k: low income,3341
+CA,Not Caucasian,Highschool diploma,$35k - $70k: middle class,5753
+CA,Not Caucasian,Highschool diploma,$70 - $150k: upper middle class,8225
+CA,Not Caucasian,No highschool diploma,$0 - $15k: living in poverty,8304
+CA,Not Caucasian,No highschool diploma,$150k+ : upper class,18777
+CA,Not Caucasian,No highschool diploma,$15k - $35k: low income,13729
+CA,Not Caucasian,No highschool diploma,$35k - $70k: middle class,19985
+CA,Not Caucasian,No highschool diploma,$70 - $150k: upper middle class,23914
+CA,Not Caucasian,Undergraduate degree,$0 - $15k: living in poverty,1304
+CA,Not Caucasian,Undergraduate degree,$150k+ : upper class,8113
+CA,Not Caucasian,Undergraduate degree,$15k - $35k: low income,1873
+CA,Not Caucasian,Undergraduate degree,$35k - $70k: middle class,3833
+CA,Not Caucasian,Undergraduate degree,$70 - $150k: upper middle class,7776
+CO,Caucasian,Graduate degree or more,$0 - $15k: living in poverty,176
+CO,Caucasian,Graduate degree or more,$150k+ : upper class,2368
+CO,Caucasian,Graduate degree or more,$15k - $35k: low income,356
+CO,Caucasian,Graduate degree or more,$35k - $70k: middle class,1021
+CO,Caucasian,Graduate degree or more,$70 - $150k: upper middle class,2241
+CO,Caucasian,Highschool diploma,$0 - $15k: living in poverty,745
+CO,Caucasian,Highschool diploma,$150k+ : upper class,1806
+CO,Caucasian,Highschool diploma,$15k - $35k: low income,1291
+CO,Caucasian,Highschool diploma,$35k - $70k: middle class,2337
+CO,Caucasian,Highschool diploma,$70 - $150k: upper middle class,3040
+CO,Caucasian,No highschool diploma,$0 - $15k: living in poverty,1684
+CO,Caucasian,No highschool diploma,$150k+ : upper class,5007
+CO,Caucasian,No highschool diploma,$15k - $35k: low income,3193
+CO,Caucasian,No highschool diploma,$35k - $70k: middle class,5500
+CO,Caucasian,No highschool diploma,$70 - $150k: upper middle class,7591
+CO,Caucasian,Undergraduate degree,$0 - $15k: living in poverty,464
+CO,Caucasian,Undergraduate degree,$150k+ : upper class,2863
+CO,Caucasian,Undergraduate degree,$15k - $35k: low income,963
+CO,Caucasian,Undergraduate degree,$35k - $70k: middle class,2226
+CO,Caucasian,Undergraduate degree,$70 - $150k: upper middle class,3792
+CO,Not Caucasian,Graduate degree or more,$0 - $15k: living in poverty,41
+CO,Not Caucasian,Graduate degree or more,$150k+ : upper class,228
+CO,Not Caucasian,Graduate degree or more,$15k - $35k: low income,47
+CO,Not Caucasian,Graduate degree or more,$35k - $70k: middle class,136
+CO,Not Caucasian,Graduate degree or more,$70 - $150k: upper middle class,214
+CO,Not Caucasian,Highschool diploma,$0 - $15k: living in poverty,138
+CO,Not Caucasian,Highschool diploma,$150k+ : upper class,252
+CO,Not Caucasian,Highschool diploma,$15k - $35k: low income,174
+CO,Not Caucasian,Highschool diploma,$35k - $70k: middle class,282
+CO,Not Caucasian,Highschool diploma,$70 - $150k: upper middle class,329
+CO,Not Caucasian,No highschool diploma,$0 - $15k: living in poverty,470
+CO,Not Caucasian,No highschool diploma,$150k+ : upper class,849
+CO,Not Caucasian,No highschool diploma,$15k - $35k: low income,730
+CO,Not Caucasian,No highschool diploma,$35k - $70k: middle class,1181
+CO,Not Caucasian,No highschool diploma,$70 - $150k: upper middle class,1235
+CO,Not Caucasian,Undergraduate degree,$0 - $15k: living in poverty,68
+CO,Not Caucasian,Undergraduate degree,$150k+ : upper class,243
+CO,Not Caucasian,Undergraduate degree,$15k - $35k: low income,120
+CO,Not Caucasian,Undergraduate degree,$35k - $70k: middle class,195
+CO,Not Caucasian,Undergraduate degree,$70 - $150k: upper middle class,332
+CT,Caucasian,Graduate degree or more,$0 - $15k: living in poverty,108
+CT,Caucasian,Graduate degree or more,$150k+ : upper class,2296
+CT,Caucasian,Graduate degree or more,$15k - $35k: low income,179
+CT,Caucasian,Graduate degree or more,$35k - $70k: middle class,522
+CT,Caucasian,Graduate degree or more,$70 - $150k: upper middle class,1422
+CT,Caucasian,Highschool diploma,$0 - $15k: living in poverty,276
+CT,Caucasian,Highschool diploma,$150k+ : upper class,1405
+CT,Caucasian,Highschool diploma,$15k - $35k: low income,491
+CT,Caucasian,Highschool diploma,$35k - $70k: middle class,999
+CT,Caucasian,Highschool diploma,$70 - $150k: upper middle class,1642
+CT,Caucasian,No highschool diploma,$0 - $15k: living in poverty,1006
+CT,Caucasian,No highschool diploma,$150k+ : upper class,4305
+CT,Caucasian,No highschool diploma,$15k - $35k: low income,1802
+CT,Caucasian,No highschool diploma,$35k - $70k: middle class,2894
+CT,Caucasian,No highschool diploma,$70 - $150k: upper middle class,4138
+CT,Caucasian,Undergraduate degree,$0 - $15k: living in poverty,173
+CT,Caucasian,Undergraduate degree,$150k+ : upper class,2354
+CT,Caucasian,Undergraduate degree,$15k - $35k: low income,333
+CT,Caucasian,Undergraduate degree,$35k - $70k: middle class,827
+CT,Caucasian,Undergraduate degree,$70 - $150k: upper middle class,1846
+CT,Not Caucasian,Graduate degree or more,$0 - $15k: living in poverty,35
+CT,Not Caucasian,Graduate degree or more,$150k+ : upper class,339
+CT,Not Caucasian,Graduate degree or more,$15k - $35k: low income,35
+CT,Not Caucasian,Graduate degree or more,$35k - $70k: middle class,100
+CT,Not Caucasian,Graduate degree or more,$70 - $150k: upper middle class,230
+CT,Not Caucasian,Highschool diploma,$0 - $15k: living in poverty,94
+CT,Not Caucasian,Highschool diploma,$150k+ : upper class,270
+CT,Not Caucasian,Highschool diploma,$15k - $35k: low income,147
+CT,Not Caucasian,Highschool diploma,$35k - $70k: middle class,277
+CT,Not Caucasian,Highschool diploma,$70 - $150k: upper middle class,247
+CT,Not Caucasian,No highschool diploma,$0 - $15k: living in poverty,626
+CT,Not Caucasian,No highschool diploma,$150k+ : upper class,1038
+CT,Not Caucasian,No highschool diploma,$15k - $35k: low income,912
+CT,Not Caucasian,No highschool diploma,$35k - $70k: middle class,1104
+CT,Not Caucasian,No highschool diploma,$70 - $150k: upper middle class,985
+CT,Not Caucasian,Undergraduate degree,$0 - $15k: living in poverty,62
+CT,Not Caucasian,Undergraduate degree,$150k+ : upper class,212
+CT,Not Caucasian,Undergraduate degree,$15k - $35k: low income,76
+CT,Not Caucasian,Undergraduate degree,$35k - $70k: middle class,182
+CT,Not Caucasian,Undergraduate degree,$70 - $150k: upper middle class,298
+DC,Caucasian,Graduate degree or more,$0 - $15k: living in poverty,48
+DC,Caucasian,Graduate degree or more,$150k+ : upper class,781
+DC,Caucasian,Graduate degree or more,$15k - $35k: low income,42
+DC,Caucasian,Graduate degree or more,$35k - $70k: middle class,160
+DC,Caucasian,Graduate degree or more,$70 - $150k: upper middle class,371
+DC,Caucasian,Highschool diploma,$0 - $15k: living in poverty,34
+DC,Caucasian,Highschool diploma,$150k+ : upper class,112
+DC,Caucasian,Highschool diploma,$15k - $35k: low income,16
+DC,Caucasian,Highschool diploma,$35k - $70k: middle class,21
+DC,Caucasian,Highschool diploma,$70 - $150k: upper middle class,34
+DC,Caucasian,No highschool diploma,$0 - $15k: living in poverty,31
+DC,Caucasian,No highschool diploma,$150k+ : upper class,493
+DC,Caucasian,No highschool diploma,$15k - $35k: low income,25
+DC,Caucasian,No highschool diploma,$35k - $70k: middle class,30
+DC,Caucasian,No highschool diploma,$70 - $150k: upper middle class,81
+DC,Caucasian,Undergraduate degree,$0 - $15k: living in poverty,76
+DC,Caucasian,Undergraduate degree,$150k+ : upper class,304
+DC,Caucasian,Undergraduate degree,$15k - $35k: low income,81
+DC,Caucasian,Undergraduate degree,$35k - $70k: middle class,290
+DC,Caucasian,Undergraduate degree,$70 - $150k: upper middle class,307
+DC,Not Caucasian,Graduate degree or more,$0 - $15k: living in poverty,25
+DC,Not Caucasian,Graduate degree or more,$150k+ : upper class,170
+DC,Not Caucasian,Graduate degree or more,$15k - $35k: low income,25
+DC,Not Caucasian,Graduate degree or more,$35k - $70k: middle class,76
+DC,Not Caucasian,Graduate degree or more,$70 - $150k: upper middle class,171
+DC,Not Caucasian,Highschool diploma,$0 - $15k: living in poverty,52
+DC,Not Caucasian,Highschool diploma,$150k+ : upper class,110
+DC,Not Caucasian,Highschool diploma,$15k - $35k: low income,80
+DC,Not Caucasian,Highschool diploma,$35k - $70k: middle class,105
+DC,Not Caucasian,Highschool diploma,$70 - $150k: upper middle class,124
+DC,Not Caucasian,No highschool diploma,$0 - $15k: living in poverty,411
+DC,Not Caucasian,No highschool diploma,$150k+ : upper class,414
+DC,Not Caucasian,No highschool diploma,$15k - $35k: low income,285
+DC,Not Caucasian,No highschool diploma,$35k - $70k: middle class,363
+DC,Not Caucasian,No highschool diploma,$70 - $150k: upper middle class,350
+DC,Not Caucasian,Undergraduate degree,$0 - $15k: living in poverty,41
+DC,Not Caucasian,Undergraduate degree,$150k+ : upper class,111
+DC,Not Caucasian,Undergraduate degree,$15k - $35k: low income,39
+DC,Not Caucasian,Undergraduate degree,$35k - $70k: middle class,106
+DC,Not Caucasian,Undergraduate degree,$70 - $150k: upper middle class,154
+DE,Caucasian,Graduate degree or more,$0 - $15k: living in poverty,20
+DE,Caucasian,Graduate degree or more,$150k+ : upper class,270
+DE,Caucasian,Graduate degree or more,$15k - $35k: low income,51
+DE,Caucasian,Graduate degree or more,$35k - $70k: middle class,128
+DE,Caucasian,Graduate degree or more,$70 - $150k: upper middle class,340
+DE,Caucasian,Highschool diploma,$0 - $15k: living in poverty,80
+DE,Caucasian,Highschool diploma,$150k+ : upper class,211
+DE,Caucasian,Highschool diploma,$15k - $35k: low income,152
+DE,Caucasian,Highschool diploma,$35k - $70k: middle class,323
+DE,Caucasian,Highschool diploma,$70 - $150k: upper middle class,428
+DE,Caucasian,No highschool diploma,$0 - $15k: living in poverty,281
+DE,Caucasian,No highschool diploma,$150k+ : upper class,621
+DE,Caucasian,No highschool diploma,$15k - $35k: low income,593
+DE,Caucasian,No highschool diploma,$35k - $70k: middle class,1016
+DE,Caucasian,No highschool diploma,$70 - $150k: upper middle class,1244
+DE,Caucasian,Undergraduate degree,$0 - $15k: living in poverty,41
+DE,Caucasian,Undergraduate degree,$150k+ : upper class,309
+DE,Caucasian,Undergraduate degree,$15k - $35k: low income,70
+DE,Caucasian,Undergraduate degree,$35k - $70k: middle class,264
+DE,Caucasian,Undergraduate degree,$70 - $150k: upper middle class,460
+DE,Not Caucasian,Graduate degree or more,$0 - $15k: living in poverty,9
+DE,Not Caucasian,Graduate degree or more,$150k+ : upper class,74
+DE,Not Caucasian,Graduate degree or more,$15k - $35k: low income,12
+DE,Not Caucasian,Graduate degree or more,$35k - $70k: middle class,23
+DE,Not Caucasian,Graduate degree or more,$70 - $150k: upper middle class,86
+DE,Not Caucasian,Highschool diploma,$0 - $15k: living in poverty,31
+DE,Not Caucasian,Highschool diploma,$150k+ : upper class,89
+DE,Not Caucasian,Highschool diploma,$15k - $35k: low income,50
+DE,Not Caucasian,Highschool diploma,$35k - $70k: middle class,86
+DE,Not Caucasian,Highschool diploma,$70 - $150k: upper middle class,95
+DE,Not Caucasian,No highschool diploma,$0 - $15k: living in poverty,202
+DE,Not Caucasian,No highschool diploma,$150k+ : upper class,224
+DE,Not Caucasian,No highschool diploma,$15k - $35k: low income,279
+DE,Not Caucasian,No highschool diploma,$35k - $70k: middle class,383
+DE,Not Caucasian,No highschool diploma,$70 - $150k: upper middle class,342
+DE,Not Caucasian,Undergraduate degree,$0 - $15k: living in poverty,12
+DE,Not Caucasian,Undergraduate degree,$150k+ : upper class,57
+DE,Not Caucasian,Undergraduate degree,$15k - $35k: low income,33
+DE,Not Caucasian,Undergraduate degree,$35k - $70k: middle class,46
+DE,Not Caucasian,Undergraduate degree,$70 - $150k: upper middle class,88
+FL,Caucasian,Graduate degree or more,$0 - $15k: living in poverty,676
+FL,Caucasian,Graduate degree or more,$150k+ : upper class,5689
+FL,Caucasian,Graduate degree or more,$15k - $35k: low income,1360
+FL,Caucasian,Graduate degree or more,$35k - $70k: middle class,3136
+FL,Caucasian,Graduate degree or more,$70 - $150k: upper middle class,5944
+FL,Caucasian,Highschool diploma,$0 - $15k: living in poverty,2612
+FL,Caucasian,Highschool diploma,$150k+ : upper class,5287
+FL,Caucasian,Highschool diploma,$15k - $35k: low income,5316
+FL,Caucasian,Highschool diploma,$35k - $70k: middle class,8899
+FL,Caucasian,Highschool diploma,$70 - $150k: upper middle class,9788
+FL,Caucasian,No highschool diploma,$0 - $15k: living in poverty,8698
+FL,Caucasian,No highschool diploma,$150k+ : upper class,13050
+FL,Caucasian,No highschool diploma,$15k - $35k: low income,16764
+FL,Caucasian,No highschool diploma,$35k - $70k: middle class,23613
+FL,Caucasian,No highschool diploma,$70 - $150k: upper middle class,22631
+FL,Caucasian,Undergraduate degree,$0 - $15k: living in poverty,1579
+FL,Caucasian,Undergraduate degree,$150k+ : upper class,6769
+FL,Caucasian,Undergraduate degree,$15k - $35k: low income,3083
+FL,Caucasian,Undergraduate degree,$35k - $70k: middle class,6522
+FL,Caucasian,Undergraduate degree,$70 - $150k: upper middle class,9616
+FL,Not Caucasian,Graduate degree or more,$0 - $15k: living in poverty,168
+FL,Not Caucasian,Graduate degree or more,$150k+ : upper class,781
+FL,Not Caucasian,Graduate degree or more,$15k - $35k: low income,258
+FL,Not Caucasian,Graduate degree or more,$35k - $70k: middle class,669
+FL,Not Caucasian,Graduate degree or more,$70 - $150k: upper middle class,951
+FL,Not Caucasian,Highschool diploma,$0 - $15k: living in poverty,747
+FL,Not Caucasian,Highschool diploma,$150k+ : upper class,1091
+FL,Not Caucasian,Highschool diploma,$15k - $35k: low income,1436
+FL,Not Caucasian,Highschool diploma,$35k - $70k: middle class,2160
+FL,Not Caucasian,Highschool diploma,$70 - $150k: upper middle class,1931
+FL,Not Caucasian,No highschool diploma,$0 - $15k: living in poverty,3608
+FL,Not Caucasian,No highschool diploma,$150k+ : upper class,3965
+FL,Not Caucasian,No highschool diploma,$15k - $35k: low income,5906
+FL,Not Caucasian,No highschool diploma,$35k - $70k: middle class,7277
+FL,Not Caucasian,No highschool diploma,$70 - $150k: upper middle class,5567
+FL,Not Caucasian,Undergraduate degree,$0 - $15k: living in poverty,332
+FL,Not Caucasian,Undergraduate degree,$150k+ : upper class,776
+FL,Not Caucasian,Undergraduate degree,$15k - $35k: low income,646
+FL,Not Caucasian,Undergraduate degree,$35k - $70k: middle class,1277
+FL,Not Caucasian,Undergraduate degree,$70 - $150k: upper middle class,1582
+GA,Caucasian,Graduate degree or more,$0 - $15k: living in poverty,198
+GA,Caucasian,Graduate degree or more,$150k+ : upper class,2703
+GA,Caucasian,Graduate degree or more,$15k - $35k: low income,376
+GA,Caucasian,Graduate degree or more,$35k - $70k: middle class,1092
+GA,Caucasian,Graduate degree or more,$70 - $150k: upper middle class,2583
+GA,Caucasian,Highschool diploma,$0 - $15k: living in poverty,940
+GA,Caucasian,Highschool diploma,$150k+ : upper class,2201
+GA,Caucasian,Highschool diploma,$15k - $35k: low income,1596
+GA,Caucasian,Highschool diploma,$35k - $70k: middle class,3010
+GA,Caucasian,Highschool diploma,$70 - $150k: upper middle class,3975
+GA,Caucasian,No highschool diploma,$0 - $15k: living in poverty,3621
+GA,Caucasian,No highschool diploma,$150k+ : upper class,6236
+GA,Caucasian,No highschool diploma,$15k - $35k: low income,6629
+GA,Caucasian,No highschool diploma,$35k - $70k: middle class,9752
+GA,Caucasian,No highschool diploma,$70 - $150k: upper middle class,10677
+GA,Caucasian,Undergraduate degree,$0 - $15k: living in poverty,435
+GA,Caucasian,Undergraduate degree,$150k+ : upper class,3513
+GA,Caucasian,Undergraduate degree,$15k - $35k: low income,843
+GA,Caucasian,Undergraduate degree,$35k - $70k: middle class,2183
+GA,Caucasian,Undergraduate degree,$70 - $150k: upper middle class,4012
+GA,Not Caucasian,Graduate degree or more,$0 - $15k: living in poverty,132
+GA,Not Caucasian,Graduate degree or more,$150k+ : upper class,854
+GA,Not Caucasian,Graduate degree or more,$15k - $35k: low income,185
+GA,Not Caucasian,Graduate degree or more,$35k - $70k: middle class,539
+GA,Not Caucasian,Graduate degree or more,$70 - $150k: upper middle class,1001
+GA,Not Caucasian,Highschool diploma,$0 - $15k: living in poverty,688
+GA,Not Caucasian,Highschool diploma,$150k+ : upper class,1060
+GA,Not Caucasian,Highschool diploma,$15k - $35k: low income,1138
+GA,Not Caucasian,Highschool diploma,$35k - $70k: middle class,1635
+GA,Not Caucasian,Highschool diploma,$70 - $150k: upper middle class,1566
+GA,Not Caucasian,No highschool diploma,$0 - $15k: living in poverty,3343
+GA,Not Caucasian,No highschool diploma,$150k+ : upper class,3343
+GA,Not Caucasian,No highschool diploma,$15k - $35k: low income,4999
+GA,Not Caucasian,No highschool diploma,$35k - $70k: middle class,5495
+GA,Not Caucasian,No highschool diploma,$70 - $150k: upper middle class,4522
+GA,Not Caucasian,Undergraduate degree,$0 - $15k: living in poverty,268
+GA,Not Caucasian,Undergraduate degree,$150k+ : upper class,736
+GA,Not Caucasian,Undergraduate degree,$15k - $35k: low income,464
+GA,Not Caucasian,Undergraduate degree,$35k - $70k: middle class,940
+GA,Not Caucasian,Undergraduate degree,$70 - $150k: upper middle class,1372
+HI,Caucasian,Graduate degree or more,$0 - $15k: living in poverty,20
+HI,Caucasian,Graduate degree or more,$150k+ : upper class,223
+HI,Caucasian,Graduate degree or more,$15k - $35k: low income,37
+HI,Caucasian,Graduate degree or more,$35k - $70k: middle class,86
+HI,Caucasian,Graduate degree or more,$70 - $150k: upper middle class,178
+HI,Caucasian,Highschool diploma,$0 - $15k: living in poverty,61
+HI,Caucasian,Highschool diploma,$150k+ : upper class,174
+HI,Caucasian,Highschool diploma,$15k - $35k: low income,108
+HI,Caucasian,Highschool diploma,$35k - $70k: middle class,189
+HI,Caucasian,Highschool diploma,$70 - $150k: upper middle class,229
+HI,Caucasian,No highschool diploma,$0 - $15k: living in poverty,131
+HI,Caucasian,No highschool diploma,$150k+ : upper class,485
+HI,Caucasian,No highschool diploma,$15k - $35k: low income,167
+HI,Caucasian,No highschool diploma,$35k - $70k: middle class,286
+HI,Caucasian,No highschool diploma,$70 - $150k: upper middle class,385
+HI,Caucasian,Undergraduate degree,$0 - $15k: living in poverty,30
+HI,Caucasian,Undergraduate degree,$150k+ : upper class,239
+HI,Caucasian,Undergraduate degree,$15k - $35k: low income,68
+HI,Caucasian,Undergraduate degree,$35k - $70k: middle class,141
+HI,Caucasian,Undergraduate degree,$70 - $150k: upper middle class,258
+HI,Not Caucasian,Graduate degree or more,$0 - $15k: living in poverty,25
+HI,Not Caucasian,Graduate degree or more,$150k+ : upper class,315
+HI,Not Caucasian,Graduate degree or more,$15k - $35k: low income,24
+HI,Not Caucasian,Graduate degree or more,$35k - $70k: middle class,95
+HI,Not Caucasian,Graduate degree or more,$70 - $150k: upper middle class,302
+HI,Not Caucasian,Highschool diploma,$0 - $15k: living in poverty,103
+HI,Not Caucasian,Highschool diploma,$150k+ : upper class,632
+HI,Not Caucasian,Highschool diploma,$15k - $35k: low income,203
+HI,Not Caucasian,Highschool diploma,$35k - $70k: middle class,424
+HI,Not Caucasian,Highschool diploma,$70 - $150k: upper middle class,801
+HI,Not Caucasian,No highschool diploma,$0 - $15k: living in poverty,427
+HI,Not Caucasian,No highschool diploma,$150k+ : upper class,1940
+HI,Not Caucasian,No highschool diploma,$15k - $35k: low income,674
+HI,Not Caucasian,No highschool diploma,$35k - $70k: middle class,1220
+HI,Not Caucasian,No highschool diploma,$70 - $150k: upper middle class,2112
+HI,Not Caucasian,Undergraduate degree,$0 - $15k: living in poverty,54
+HI,Not Caucasian,Undergraduate degree,$150k+ : upper class,569
+HI,Not Caucasian,Undergraduate degree,$15k - $35k: low income,99
+HI,Not Caucasian,Undergraduate degree,$35k - $70k: middle class,264
+HI,Not Caucasian,Undergraduate degree,$70 - $150k: upper middle class,622
+IA,Caucasian,Graduate degree or more,$0 - $15k: living in poverty,46
+IA,Caucasian,Graduate degree or more,$150k+ : upper class,511
+IA,Caucasian,Graduate degree or more,$15k - $35k: low income,100
+IA,Caucasian,Graduate degree or more,$35k - $70k: middle class,317
+IA,Caucasian,Graduate degree or more,$70 - $150k: upper middle class,660
+IA,Caucasian,Highschool diploma,$0 - $15k: living in poverty,477
+IA,Caucasian,Highschool diploma,$150k+ : upper class,1038
+IA,Caucasian,Highschool diploma,$15k - $35k: low income,900
+IA,Caucasian,Highschool diploma,$35k - $70k: middle class,1848
+IA,Caucasian,Highschool diploma,$70 - $150k: upper middle class,2294
+IA,Caucasian,No highschool diploma,$0 - $15k: living in poverty,1576
+IA,Caucasian,No highschool diploma,$150k+ : upper class,2450
+IA,Caucasian,No highschool diploma,$15k - $35k: low income,3034
+IA,Caucasian,No highschool diploma,$35k - $70k: middle class,5285
+IA,Caucasian,No highschool diploma,$70 - $150k: upper middle class,5785
+IA,Caucasian,Undergraduate degree,$0 - $15k: living in poverty,139
+IA,Caucasian,Undergraduate degree,$150k+ : upper class,841
+IA,Caucasian,Undergraduate degree,$15k - $35k: low income,361
+IA,Caucasian,Undergraduate degree,$35k - $70k: middle class,980
+IA,Caucasian,Undergraduate degree,$70 - $150k: upper middle class,1752
+IA,Not Caucasian,Graduate degree or more,$0 - $15k: living in poverty,8
+IA,Not Caucasian,Graduate degree or more,$150k+ : upper class,24
+IA,Not Caucasian,Graduate degree or more,$15k - $35k: low income,12
+IA,Not Caucasian,Graduate degree or more,$35k - $70k: middle class,27
+IA,Not Caucasian,Graduate degree or more,$70 - $150k: upper middle class,39
+IA,Not Caucasian,Highschool diploma,$0 - $15k: living in poverty,36
+IA,Not Caucasian,Highschool diploma,$150k+ : upper class,113
+IA,Not Caucasian,Highschool diploma,$15k - $35k: low income,56
+IA,Not Caucasian,Highschool diploma,$35k - $70k: middle class,69
+IA,Not Caucasian,Highschool diploma,$70 - $150k: upper middle class,55
+IA,Not Caucasian,No highschool diploma,$0 - $15k: living in poverty,156
+IA,Not Caucasian,No highschool diploma,$150k+ : upper class,245
+IA,Not Caucasian,No highschool diploma,$15k - $35k: low income,302
+IA,Not Caucasian,No highschool diploma,$35k - $70k: middle class,356
+IA,Not Caucasian,No highschool diploma,$70 - $150k: upper middle class,284
+IA,Not Caucasian,Undergraduate degree,$0 - $15k: living in poverty,23
+IA,Not Caucasian,Undergraduate degree,$150k+ : upper class,27
+IA,Not Caucasian,Undergraduate degree,$15k - $35k: low income,34
+IA,Not Caucasian,Undergraduate degree,$35k - $70k: middle class,48
+IA,Not Caucasian,Undergraduate degree,$70 - $150k: upper middle class,54
+ID,Caucasian,Graduate degree or more,$0 - $15k: living in poverty,36
+ID,Caucasian,Graduate degree or more,$150k+ : upper class,273
+ID,Caucasian,Graduate degree or more,$15k - $35k: low income,87
+ID,Caucasian,Graduate degree or more,$35k - $70k: middle class,219
+ID,Caucasian,Graduate degree or more,$70 - $150k: upper middle class,398
+ID,Caucasian,Highschool diploma,$0 - $15k: living in poverty,290
+ID,Caucasian,Highschool diploma,$150k+ : upper class,337
+ID,Caucasian,Highschool diploma,$15k - $35k: low income,595
+ID,Caucasian,Highschool diploma,$35k - $70k: middle class,1055
+ID,Caucasian,Highschool diploma,$70 - $150k: upper middle class,980
+ID,Caucasian,No highschool diploma,$0 - $15k: living in poverty,794
+ID,Caucasian,No highschool diploma,$150k+ : upper class,1072
+ID,Caucasian,No highschool diploma,$15k - $35k: low income,1562
+ID,Caucasian,No highschool diploma,$35k - $70k: middle class,3028
+ID,Caucasian,No highschool diploma,$70 - $150k: upper middle class,2546
+ID,Caucasian,Undergraduate degree,$0 - $15k: living in poverty,95
+ID,Caucasian,Undergraduate degree,$150k+ : upper class,394
+ID,Caucasian,Undergraduate degree,$15k - $35k: low income,219
+ID,Caucasian,Undergraduate degree,$35k - $70k: middle class,598
+ID,Caucasian,Undergraduate degree,$70 - $150k: upper middle class,779
+ID,Not Caucasian,Graduate degree or more,$0 - $15k: living in poverty,4
+ID,Not Caucasian,Graduate degree or more,$150k+ : upper class,13
+ID,Not Caucasian,Graduate degree or more,$15k - $35k: low income,10
+ID,Not Caucasian,Graduate degree or more,$35k - $70k: middle class,10
+ID,Not Caucasian,Graduate degree or more,$70 - $150k: upper middle class,19
+ID,Not Caucasian,Highschool diploma,$0 - $15k: living in poverty,29
+ID,Not Caucasian,Highschool diploma,$150k+ : upper class,40
+ID,Not Caucasian,Highschool diploma,$15k - $35k: low income,52
+ID,Not Caucasian,Highschool diploma,$35k - $70k: middle class,59
+ID,Not Caucasian,Highschool diploma,$70 - $150k: upper middle class,62
+ID,Not Caucasian,No highschool diploma,$0 - $15k: living in poverty,123
+ID,Not Caucasian,No highschool diploma,$150k+ : upper class,107
+ID,Not Caucasian,No highschool diploma,$15k - $35k: low income,240
+ID,Not Caucasian,No highschool diploma,$35k - $70k: middle class,266
+ID,Not Caucasian,No highschool diploma,$70 - $150k: upper middle class,220
+ID,Not Caucasian,Undergraduate degree,$0 - $15k: living in poverty,7
+ID,Not Caucasian,Undergraduate degree,$150k+ : upper class,17
+ID,Not Caucasian,Undergraduate degree,$15k - $35k: low income,18
+ID,Not Caucasian,Undergraduate degree,$35k - $70k: middle class,32
+ID,Not Caucasian,Undergraduate degree,$70 - $150k: upper middle class,26
+IL,Caucasian,Graduate degree or more,$0 - $15k: living in poverty,243
+IL,Caucasian,Graduate degree or more,$150k+ : upper class,4742
+IL,Caucasian,Graduate degree or more,$15k - $35k: low income,440
+IL,Caucasian,Graduate degree or more,$35k - $70k: middle class,1436
+IL,Caucasian,Graduate degree or more,$70 - $150k: upper middle class,3520
+IL,Caucasian,Highschool diploma,$0 - $15k: living in poverty,1225
+IL,Caucasian,Highschool diploma,$150k+ : upper class,3339
+IL,Caucasian,Highschool diploma,$15k - $35k: low income,2454
+IL,Caucasian,Highschool diploma,$35k - $70k: middle class,4703
+IL,Caucasian,Highschool diploma,$70 - $150k: upper middle class,6513
+IL,Caucasian,No highschool diploma,$0 - $15k: living in poverty,4506
+IL,Caucasian,No highschool diploma,$150k+ : upper class,10313
+IL,Caucasian,No highschool diploma,$15k - $35k: low income,8871
+IL,Caucasian,No highschool diploma,$35k - $70k: middle class,14409
+IL,Caucasian,No highschool diploma,$70 - $150k: upper middle class,17110
+IL,Caucasian,Undergraduate degree,$0 - $15k: living in poverty,649
+IL,Caucasian,Undergraduate degree,$150k+ : upper class,5362
+IL,Caucasian,Undergraduate degree,$15k - $35k: low income,1166
+IL,Caucasian,Undergraduate degree,$35k - $70k: middle class,3133
+IL,Caucasian,Undergraduate degree,$70 - $150k: upper middle class,6131
+IL,Not Caucasian,Graduate degree or more,$0 - $15k: living in poverty,119
+IL,Not Caucasian,Graduate degree or more,$150k+ : upper class,916
+IL,Not Caucasian,Graduate degree or more,$15k - $35k: low income,163
+IL,Not Caucasian,Graduate degree or more,$35k - $70k: middle class,388
+IL,Not Caucasian,Graduate degree or more,$70 - $150k: upper middle class,805
+IL,Not Caucasian,Highschool diploma,$0 - $15k: living in poverty,558
+IL,Not Caucasian,Highschool diploma,$150k+ : upper class,780
+IL,Not Caucasian,Highschool diploma,$15k - $35k: low income,712
+IL,Not Caucasian,Highschool diploma,$35k - $70k: middle class,1121
+IL,Not Caucasian,Highschool diploma,$70 - $150k: upper middle class,1166
+IL,Not Caucasian,No highschool diploma,$0 - $15k: living in poverty,2225
+IL,Not Caucasian,No highschool diploma,$150k+ : upper class,3012
+IL,Not Caucasian,No highschool diploma,$15k - $35k: low income,3017
+IL,Not Caucasian,No highschool diploma,$35k - $70k: middle class,4029
+IL,Not Caucasian,No highschool diploma,$70 - $150k: upper middle class,3776
+IL,Not Caucasian,Undergraduate degree,$0 - $15k: living in poverty,274
+IL,Not Caucasian,Undergraduate degree,$150k+ : upper class,807
+IL,Not Caucasian,Undergraduate degree,$15k - $35k: low income,346
+IL,Not Caucasian,Undergraduate degree,$35k - $70k: middle class,737
+IL,Not Caucasian,Undergraduate degree,$70 - $150k: upper middle class,1240
+IN,Caucasian,Graduate degree or more,$0 - $15k: living in poverty,111
+IN,Caucasian,Graduate degree or more,$150k+ : upper class,1255
+IN,Caucasian,Graduate degree or more,$15k - $35k: low income,272
+IN,Caucasian,Graduate degree or more,$35k - $70k: middle class,782
+IN,Caucasian,Graduate degree or more,$70 - $150k: upper middle class,1625
+IN,Caucasian,Highschool diploma,$0 - $15k: living in poverty,834
+IN,Caucasian,Highschool diploma,$150k+ : upper class,1614
+IN,Caucasian,Highschool diploma,$15k - $35k: low income,1509
+IN,Caucasian,Highschool diploma,$35k - $70k: middle class,2917
+IN,Caucasian,Highschool diploma,$70 - $150k: upper middle class,3596
+IN,Caucasian,No highschool diploma,$0 - $15k: living in poverty,3389
+IN,Caucasian,No highschool diploma,$150k+ : upper class,4652
+IN,Caucasian,No highschool diploma,$15k - $35k: low income,6633
+IN,Caucasian,No highschool diploma,$35k - $70k: middle class,11050
+IN,Caucasian,No highschool diploma,$70 - $150k: upper middle class,11421
+IN,Caucasian,Undergraduate degree,$0 - $15k: living in poverty,287
+IN,Caucasian,Undergraduate degree,$150k+ : upper class,1614
+IN,Caucasian,Undergraduate degree,$15k - $35k: low income,663
+IN,Caucasian,Undergraduate degree,$35k - $70k: middle class,1810
+IN,Caucasian,Undergraduate degree,$70 - $150k: upper middle class,3082
+IN,Not Caucasian,Graduate degree or more,$0 - $15k: living in poverty,37
+IN,Not Caucasian,Graduate degree or more,$150k+ : upper class,139
+IN,Not Caucasian,Graduate degree or more,$15k - $35k: low income,69
+IN,Not Caucasian,Graduate degree or more,$35k - $70k: middle class,94
+IN,Not Caucasian,Graduate degree or more,$70 - $150k: upper middle class,180
+IN,Not Caucasian,Highschool diploma,$0 - $15k: living in poverty,209
+IN,Not Caucasian,Highschool diploma,$150k+ : upper class,243
+IN,Not Caucasian,Highschool diploma,$15k - $35k: low income,292
+IN,Not Caucasian,Highschool diploma,$35k - $70k: middle class,361
+IN,Not Caucasian,Highschool diploma,$70 - $150k: upper middle class,273
+IN,Not Caucasian,No highschool diploma,$0 - $15k: living in poverty,1006
+IN,Not Caucasian,No highschool diploma,$150k+ : upper class,935
+IN,Not Caucasian,No highschool diploma,$15k - $35k: low income,1382
+IN,Not Caucasian,No highschool diploma,$35k - $70k: middle class,1528
+IN,Not Caucasian,No highschool diploma,$70 - $150k: upper middle class,1062
+IN,Not Caucasian,Undergraduate degree,$0 - $15k: living in poverty,80
+IN,Not Caucasian,Undergraduate degree,$150k+ : upper class,103
+IN,Not Caucasian,Undergraduate degree,$15k - $35k: low income,104
+IN,Not Caucasian,Undergraduate degree,$35k - $70k: middle class,206
+IN,Not Caucasian,Undergraduate degree,$70 - $150k: upper middle class,261
+KS,Caucasian,Graduate degree or more,$0 - $15k: living in poverty,52
+KS,Caucasian,Graduate degree or more,$150k+ : upper class,628
+KS,Caucasian,Graduate degree or more,$15k - $35k: low income,131
+KS,Caucasian,Graduate degree or more,$35k - $70k: middle class,394
+KS,Caucasian,Graduate degree or more,$70 - $150k: upper middle class,846
+KS,Caucasian,Highschool diploma,$0 - $15k: living in poverty,373
+KS,Caucasian,Highschool diploma,$150k+ : upper class,851
+KS,Caucasian,Highschool diploma,$15k - $35k: low income,840
+KS,Caucasian,Highschool diploma,$35k - $70k: middle class,1393
+KS,Caucasian,Highschool diploma,$70 - $150k: upper middle class,1636
+KS,Caucasian,No highschool diploma,$0 - $15k: living in poverty,1269
+KS,Caucasian,No highschool diploma,$150k+ : upper class,2082
+KS,Caucasian,No highschool diploma,$15k - $35k: low income,2792
+KS,Caucasian,No highschool diploma,$35k - $70k: middle class,4295
+KS,Caucasian,No highschool diploma,$70 - $150k: upper middle class,4405
+KS,Caucasian,Undergraduate degree,$0 - $15k: living in poverty,138
+KS,Caucasian,Undergraduate degree,$150k+ : upper class,923
+KS,Caucasian,Undergraduate degree,$15k - $35k: low income,385
+KS,Caucasian,Undergraduate degree,$35k - $70k: middle class,915
+KS,Caucasian,Undergraduate degree,$70 - $150k: upper middle class,1577
+KS,Not Caucasian,Graduate degree or more,$0 - $15k: living in poverty,7
+KS,Not Caucasian,Graduate degree or more,$150k+ : upper class,71
+KS,Not Caucasian,Graduate degree or more,$15k - $35k: low income,29
+KS,Not Caucasian,Graduate degree or more,$35k - $70k: middle class,49
+KS,Not Caucasian,Graduate degree or more,$70 - $150k: upper middle class,99
+KS,Not Caucasian,Highschool diploma,$0 - $15k: living in poverty,78
+KS,Not Caucasian,Highschool diploma,$150k+ : upper class,174
+KS,Not Caucasian,Highschool diploma,$15k - $35k: low income,107
+KS,Not Caucasian,Highschool diploma,$35k - $70k: middle class,165
+KS,Not Caucasian,Highschool diploma,$70 - $150k: upper middle class,146
+KS,Not Caucasian,No highschool diploma,$0 - $15k: living in poverty,367
+KS,Not Caucasian,No highschool diploma,$150k+ : upper class,403
+KS,Not Caucasian,No highschool diploma,$15k - $35k: low income,454
+KS,Not Caucasian,No highschool diploma,$35k - $70k: middle class,629
+KS,Not Caucasian,No highschool diploma,$70 - $150k: upper middle class,551
+KS,Not Caucasian,Undergraduate degree,$0 - $15k: living in poverty,17
+KS,Not Caucasian,Undergraduate degree,$150k+ : upper class,65
+KS,Not Caucasian,Undergraduate degree,$15k - $35k: low income,46
+KS,Not Caucasian,Undergraduate degree,$35k - $70k: middle class,70
+KS,Not Caucasian,Undergraduate degree,$70 - $150k: upper middle class,115
+KY,Caucasian,Graduate degree or more,$0 - $15k: living in poverty,99
+KY,Caucasian,Graduate degree or more,$150k+ : upper class,1077
+KY,Caucasian,Graduate degree or more,$15k - $35k: low income,227
+KY,Caucasian,Graduate degree or more,$35k - $70k: middle class,706
+KY,Caucasian,Graduate degree or more,$70 - $150k: upper middle class,1342
+KY,Caucasian,Highschool diploma,$0 - $15k: living in poverty,616
+KY,Caucasian,Highschool diploma,$150k+ : upper class,1139
+KY,Caucasian,Highschool diploma,$15k - $35k: low income,1186
+KY,Caucasian,Highschool diploma,$35k - $70k: middle class,1992
+KY,Caucasian,Highschool diploma,$70 - $150k: upper middle class,2247
+KY,Caucasian,No highschool diploma,$0 - $15k: living in poverty,3377
+KY,Caucasian,No highschool diploma,$150k+ : upper class,3299
+KY,Caucasian,No highschool diploma,$15k - $35k: low income,5245
+KY,Caucasian,No highschool diploma,$35k - $70k: middle class,7025
+KY,Caucasian,No highschool diploma,$70 - $150k: upper middle class,6414
+KY,Caucasian,Undergraduate degree,$0 - $15k: living in poverty,228
+KY,Caucasian,Undergraduate degree,$150k+ : upper class,1132
+KY,Caucasian,Undergraduate degree,$15k - $35k: low income,492
+KY,Caucasian,Undergraduate degree,$35k - $70k: middle class,1177
+KY,Caucasian,Undergraduate degree,$70 - $150k: upper middle class,1809
+KY,Not Caucasian,Graduate degree or more,$0 - $15k: living in poverty,14
+KY,Not Caucasian,Graduate degree or more,$150k+ : upper class,80
+KY,Not Caucasian,Graduate degree or more,$15k - $35k: low income,20
+KY,Not Caucasian,Graduate degree or more,$35k - $70k: middle class,57
+KY,Not Caucasian,Graduate degree or more,$70 - $150k: upper middle class,98
+KY,Not Caucasian,Highschool diploma,$0 - $15k: living in poverty,107
+KY,Not Caucasian,Highschool diploma,$150k+ : upper class,154
+KY,Not Caucasian,Highschool diploma,$15k - $35k: low income,169
+KY,Not Caucasian,Highschool diploma,$35k - $70k: middle class,224
+KY,Not Caucasian,Highschool diploma,$70 - $150k: upper middle class,175
+KY,Not Caucasian,No highschool diploma,$0 - $15k: living in poverty,556
+KY,Not Caucasian,No highschool diploma,$150k+ : upper class,540
+KY,Not Caucasian,No highschool diploma,$15k - $35k: low income,721
+KY,Not Caucasian,No highschool diploma,$35k - $70k: middle class,742
+KY,Not Caucasian,No highschool diploma,$70 - $150k: upper middle class,591
+KY,Not Caucasian,Undergraduate degree,$0 - $15k: living in poverty,31
+KY,Not Caucasian,Undergraduate degree,$150k+ : upper class,68
+KY,Not Caucasian,Undergraduate degree,$15k - $35k: low income,56
+KY,Not Caucasian,Undergraduate degree,$35k - $70k: middle class,116
+KY,Not Caucasian,Undergraduate degree,$70 - $150k: upper middle class,127
+LA,Caucasian,Graduate degree or more,$0 - $15k: living in poverty,78
+LA,Caucasian,Graduate degree or more,$150k+ : upper class,797
+LA,Caucasian,Graduate degree or more,$15k - $35k: low income,163
+LA,Caucasian,Graduate degree or more,$35k - $70k: middle class,480
+LA,Caucasian,Graduate degree or more,$70 - $150k: upper middle class,882
+LA,Caucasian,Highschool diploma,$0 - $15k: living in poverty,485
+LA,Caucasian,Highschool diploma,$150k+ : upper class,921
+LA,Caucasian,Highschool diploma,$15k - $35k: low income,768
+LA,Caucasian,Highschool diploma,$35k - $70k: middle class,1315
+LA,Caucasian,Highschool diploma,$70 - $150k: upper middle class,1640
+LA,Caucasian,No highschool diploma,$0 - $15k: living in poverty,1986
+LA,Caucasian,No highschool diploma,$150k+ : upper class,2744
+LA,Caucasian,No highschool diploma,$15k - $35k: low income,3324
+LA,Caucasian,No highschool diploma,$35k - $70k: middle class,4481
+LA,Caucasian,No highschool diploma,$70 - $150k: upper middle class,5036
+LA,Caucasian,Undergraduate degree,$0 - $15k: living in poverty,232
+LA,Caucasian,Undergraduate degree,$150k+ : upper class,1088
+LA,Caucasian,Undergraduate degree,$15k - $35k: low income,402
+LA,Caucasian,Undergraduate degree,$35k - $70k: middle class,972
+LA,Caucasian,Undergraduate degree,$70 - $150k: upper middle class,1648
+LA,Not Caucasian,Graduate degree or more,$0 - $15k: living in poverty,32
+LA,Not Caucasian,Graduate degree or more,$150k+ : upper class,112
+LA,Not Caucasian,Graduate degree or more,$15k - $35k: low income,79
+LA,Not Caucasian,Graduate degree or more,$35k - $70k: middle class,169
+LA,Not Caucasian,Graduate degree or more,$70 - $150k: upper middle class,229
+LA,Not Caucasian,Highschool diploma,$0 - $15k: living in poverty,336
+LA,Not Caucasian,Highschool diploma,$150k+ : upper class,266
+LA,Not Caucasian,Highschool diploma,$15k - $35k: low income,630
+LA,Not Caucasian,Highschool diploma,$35k - $70k: middle class,638
+LA,Not Caucasian,Highschool diploma,$70 - $150k: upper middle class,504
+LA,Not Caucasian,No highschool diploma,$0 - $15k: living in poverty,2348
+LA,Not Caucasian,No highschool diploma,$150k+ : upper class,1192
+LA,Not Caucasian,No highschool diploma,$15k - $35k: low income,2839
+LA,Not Caucasian,No highschool diploma,$35k - $70k: middle class,2196
+LA,Not Caucasian,No highschool diploma,$70 - $150k: upper middle class,1421
+LA,Not Caucasian,Undergraduate degree,$0 - $15k: living in poverty,124
+LA,Not Caucasian,Undergraduate degree,$150k+ : upper class,179
+LA,Not Caucasian,Undergraduate degree,$15k - $35k: low income,176
+LA,Not Caucasian,Undergraduate degree,$35k - $70k: middle class,303
+LA,Not Caucasian,Undergraduate degree,$70 - $150k: upper middle class,374
+MA,Caucasian,Graduate degree or more,$0 - $15k: living in poverty,240
+MA,Caucasian,Graduate degree or more,$150k+ : upper class,4521
+MA,Caucasian,Graduate degree or more,$15k - $35k: low income,429
+MA,Caucasian,Graduate degree or more,$35k - $70k: middle class,1268
+MA,Caucasian,Graduate degree or more,$70 - $150k: upper middle class,2896
+MA,Caucasian,Highschool diploma,$0 - $15k: living in poverty,649
+MA,Caucasian,Highschool diploma,$150k+ : upper class,2980
+MA,Caucasian,Highschool diploma,$15k - $35k: low income,1011
+MA,Caucasian,Highschool diploma,$35k - $70k: middle class,1869
+MA,Caucasian,Highschool diploma,$70 - $150k: upper middle class,2850
+MA,Caucasian,No highschool diploma,$0 - $15k: living in poverty,2038
+MA,Caucasian,No highschool diploma,$150k+ : upper class,8170
+MA,Caucasian,No highschool diploma,$15k - $35k: low income,3344
+MA,Caucasian,No highschool diploma,$35k - $70k: middle class,4953
+MA,Caucasian,No highschool diploma,$70 - $150k: upper middle class,7878
+MA,Caucasian,Undergraduate degree,$0 - $15k: living in poverty,532
+MA,Caucasian,Undergraduate degree,$150k+ : upper class,4551
+MA,Caucasian,Undergraduate degree,$15k - $35k: low income,876
+MA,Caucasian,Undergraduate degree,$35k - $70k: middle class,2113
+MA,Caucasian,Undergraduate degree,$70 - $150k: upper middle class,3792
+MA,Not Caucasian,Graduate degree or more,$0 - $15k: living in poverty,71
+MA,Not Caucasian,Graduate degree or more,$150k+ : upper class,897
+MA,Not Caucasian,Graduate degree or more,$15k - $35k: low income,106
+MA,Not Caucasian,Graduate degree or more,$35k - $70k: middle class,229
+MA,Not Caucasian,Graduate degree or more,$70 - $150k: upper middle class,477
+MA,Not Caucasian,Highschool diploma,$0 - $15k: living in poverty,222
+MA,Not Caucasian,Highschool diploma,$150k+ : upper class,687
+MA,Not Caucasian,Highschool diploma,$15k - $35k: low income,240
+MA,Not Caucasian,Highschool diploma,$35k - $70k: middle class,379
+MA,Not Caucasian,Highschool diploma,$70 - $150k: upper middle class,507
+MA,Not Caucasian,No highschool diploma,$0 - $15k: living in poverty,860
+MA,Not Caucasian,No highschool diploma,$150k+ : upper class,2010
+MA,Not Caucasian,No highschool diploma,$15k - $35k: low income,1261
+MA,Not Caucasian,No highschool diploma,$35k - $70k: middle class,1553
+MA,Not Caucasian,No highschool diploma,$70 - $150k: upper middle class,1852
+MA,Not Caucasian,Undergraduate degree,$0 - $15k: living in poverty,170
+MA,Not Caucasian,Undergraduate degree,$150k+ : upper class,559
+MA,Not Caucasian,Undergraduate degree,$15k - $35k: low income,169
+MA,Not Caucasian,Undergraduate degree,$35k - $70k: middle class,342
+MA,Not Caucasian,Undergraduate degree,$70 - $150k: upper middle class,580
+MD,Caucasian,Graduate degree or more,$0 - $15k: living in poverty,134
+MD,Caucasian,Graduate degree or more,$150k+ : upper class,3411
+MD,Caucasian,Graduate degree or more,$15k - $35k: low income,211
+MD,Caucasian,Graduate degree or more,$35k - $70k: middle class,667
+MD,Caucasian,Graduate degree or more,$70 - $150k: upper middle class,1907
+MD,Caucasian,Highschool diploma,$0 - $15k: living in poverty,326
+MD,Caucasian,Highschool diploma,$150k+ : upper class,1776
+MD,Caucasian,Highschool diploma,$15k - $35k: low income,511
+MD,Caucasian,Highschool diploma,$35k - $70k: middle class,1148
+MD,Caucasian,Highschool diploma,$70 - $150k: upper middle class,1953
+MD,Caucasian,No highschool diploma,$0 - $15k: living in poverty,1117
+MD,Caucasian,No highschool diploma,$150k+ : upper class,5409
+MD,Caucasian,No highschool diploma,$15k - $35k: low income,1996
+MD,Caucasian,No highschool diploma,$35k - $70k: middle class,3847
+MD,Caucasian,No highschool diploma,$70 - $150k: upper middle class,5713
+MD,Caucasian,Undergraduate degree,$0 - $15k: living in poverty,226
+MD,Caucasian,Undergraduate degree,$150k+ : upper class,2943
+MD,Caucasian,Undergraduate degree,$15k - $35k: low income,419
+MD,Caucasian,Undergraduate degree,$35k - $70k: middle class,1119
+MD,Caucasian,Undergraduate degree,$70 - $150k: upper middle class,2481
+MD,Not Caucasian,Graduate degree or more,$0 - $15k: living in poverty,110
+MD,Not Caucasian,Graduate degree or more,$150k+ : upper class,1257
+MD,Not Caucasian,Graduate degree or more,$15k - $35k: low income,128
+MD,Not Caucasian,Graduate degree or more,$35k - $70k: middle class,346
+MD,Not Caucasian,Graduate degree or more,$70 - $150k: upper middle class,938
+MD,Not Caucasian,Highschool diploma,$0 - $15k: living in poverty,227
+MD,Not Caucasian,Highschool diploma,$150k+ : upper class,1016
+MD,Not Caucasian,Highschool diploma,$15k - $35k: low income,399
+MD,Not Caucasian,Highschool diploma,$35k - $70k: middle class,823
+MD,Not Caucasian,Highschool diploma,$70 - $150k: upper middle class,1187
+MD,Not Caucasian,No highschool diploma,$0 - $15k: living in poverty,1336
+MD,Not Caucasian,No highschool diploma,$150k+ : upper class,3225
+MD,Not Caucasian,No highschool diploma,$15k - $35k: low income,1795
+MD,Not Caucasian,No highschool diploma,$35k - $70k: middle class,2923
+MD,Not Caucasian,No highschool diploma,$70 - $150k: upper middle class,3860
+MD,Not Caucasian,Undergraduate degree,$0 - $15k: living in poverty,130
+MD,Not Caucasian,Undergraduate degree,$150k+ : upper class,947
+MD,Not Caucasian,Undergraduate degree,$15k - $35k: low income,216
+MD,Not Caucasian,Undergraduate degree,$35k - $70k: middle class,550
+MD,Not Caucasian,Undergraduate degree,$70 - $150k: upper middle class,1113
+ME,Caucasian,Graduate degree or more,$0 - $15k: living in poverty,42
+ME,Caucasian,Graduate degree or more,$150k+ : upper class,294
+ME,Caucasian,Graduate degree or more,$15k - $35k: low income,81
+ME,Caucasian,Graduate degree or more,$35k - $70k: middle class,236
+ME,Caucasian,Graduate degree or more,$70 - $150k: upper middle class,435
+ME,Caucasian,Highschool diploma,$0 - $15k: living in poverty,218
+ME,Caucasian,Highschool diploma,$150k+ : upper class,395
+ME,Caucasian,Highschool diploma,$15k - $35k: low income,435
+ME,Caucasian,Highschool diploma,$35k - $70k: middle class,682
+ME,Caucasian,Highschool diploma,$70 - $150k: upper middle class,779
+ME,Caucasian,No highschool diploma,$0 - $15k: living in poverty,760
+ME,Caucasian,No highschool diploma,$150k+ : upper class,952
+ME,Caucasian,No highschool diploma,$15k - $35k: low income,1492
+ME,Caucasian,No highschool diploma,$35k - $70k: middle class,2040
+ME,Caucasian,No highschool diploma,$70 - $150k: upper middle class,1902
+ME,Caucasian,Undergraduate degree,$0 - $15k: living in poverty,111
+ME,Caucasian,Undergraduate degree,$150k+ : upper class,330
+ME,Caucasian,Undergraduate degree,$15k - $35k: low income,214
+ME,Caucasian,Undergraduate degree,$35k - $70k: middle class,477
+ME,Caucasian,Undergraduate degree,$70 - $150k: upper middle class,713
+ME,Not Caucasian,Graduate degree or more,$0 - $15k: living in poverty,6
+ME,Not Caucasian,Graduate degree or more,$150k+ : upper class,12
+ME,Not Caucasian,Graduate degree or more,$15k - $35k: low income,2
+ME,Not Caucasian,Graduate degree or more,$35k - $70k: middle class,7
+ME,Not Caucasian,Graduate degree or more,$70 - $150k: upper middle class,11
+ME,Not Caucasian,Highschool diploma,$0 - $15k: living in poverty,9
+ME,Not Caucasian,Highschool diploma,$150k+ : upper class,59
+ME,Not Caucasian,Highschool diploma,$15k - $35k: low income,24
+ME,Not Caucasian,Highschool diploma,$35k - $70k: middle class,39
+ME,Not Caucasian,Highschool diploma,$70 - $150k: upper middle class,28
+ME,Not Caucasian,No highschool diploma,$0 - $15k: living in poverty,52
+ME,Not Caucasian,No highschool diploma,$150k+ : upper class,98
+ME,Not Caucasian,No highschool diploma,$15k - $35k: low income,82
+ME,Not Caucasian,No highschool diploma,$35k - $70k: middle class,117
+ME,Not Caucasian,No highschool diploma,$70 - $150k: upper middle class,74
+ME,Not Caucasian,Undergraduate degree,$0 - $15k: living in poverty,4
+ME,Not Caucasian,Undergraduate degree,$150k+ : upper class,17
+ME,Not Caucasian,Undergraduate degree,$15k - $35k: low income,3
+ME,Not Caucasian,Undergraduate degree,$35k - $70k: middle class,27
+ME,Not Caucasian,Undergraduate degree,$70 - $150k: upper middle class,16
+MI,Caucasian,Graduate degree or more,$0 - $15k: living in poverty,158
+MI,Caucasian,Graduate degree or more,$150k+ : upper class,2459
+MI,Caucasian,Graduate degree or more,$15k - $35k: low income,371
+MI,Caucasian,Graduate degree or more,$35k - $70k: middle class,1242
+MI,Caucasian,Graduate degree or more,$70 - $150k: upper middle class,2637
+MI,Caucasian,Highschool diploma,$0 - $15k: living in poverty,1383
+MI,Caucasian,Highschool diploma,$150k+ : upper class,2503
+MI,Caucasian,Highschool diploma,$15k - $35k: low income,2563
+MI,Caucasian,Highschool diploma,$35k - $70k: middle class,4930
+MI,Caucasian,Highschool diploma,$70 - $150k: upper middle class,5812
+MI,Caucasian,No highschool diploma,$0 - $15k: living in poverty,4676
+MI,Caucasian,No highschool diploma,$150k+ : upper class,6782
+MI,Caucasian,No highschool diploma,$15k - $35k: low income,8838
+MI,Caucasian,No highschool diploma,$35k - $70k: middle class,14246
+MI,Caucasian,No highschool diploma,$70 - $150k: upper middle class,14062
+MI,Caucasian,Undergraduate degree,$0 - $15k: living in poverty,482
+MI,Caucasian,Undergraduate degree,$150k+ : upper class,2787
+MI,Caucasian,Undergraduate degree,$15k - $35k: low income,1002
+MI,Caucasian,Undergraduate degree,$35k - $70k: middle class,2603
+MI,Caucasian,Undergraduate degree,$70 - $150k: upper middle class,4694
+MI,Not Caucasian,Graduate degree or more,$0 - $15k: living in poverty,73
+MI,Not Caucasian,Graduate degree or more,$150k+ : upper class,435
+MI,Not Caucasian,Graduate degree or more,$15k - $35k: low income,104
+MI,Not Caucasian,Graduate degree or more,$35k - $70k: middle class,213
+MI,Not Caucasian,Graduate degree or more,$70 - $150k: upper middle class,458
+MI,Not Caucasian,Highschool diploma,$0 - $15k: living in poverty,406
+MI,Not Caucasian,Highschool diploma,$150k+ : upper class,457
+MI,Not Caucasian,Highschool diploma,$15k - $35k: low income,572
+MI,Not Caucasian,Highschool diploma,$35k - $70k: middle class,740
+MI,Not Caucasian,Highschool diploma,$70 - $150k: upper middle class,651
+MI,Not Caucasian,No highschool diploma,$0 - $15k: living in poverty,1693
+MI,Not Caucasian,No highschool diploma,$150k+ : upper class,1687
+MI,Not Caucasian,No highschool diploma,$15k - $35k: low income,2091
+MI,Not Caucasian,No highschool diploma,$35k - $70k: middle class,2247
+MI,Not Caucasian,No highschool diploma,$70 - $150k: upper middle class,1877
+MI,Not Caucasian,Undergraduate degree,$0 - $15k: living in poverty,137
+MI,Not Caucasian,Undergraduate degree,$150k+ : upper class,312
+MI,Not Caucasian,Undergraduate degree,$15k - $35k: low income,176
+MI,Not Caucasian,Undergraduate degree,$35k - $70k: middle class,358
+MI,Not Caucasian,Undergraduate degree,$70 - $150k: upper middle class,502
+MN,Caucasian,Graduate degree or more,$0 - $15k: living in poverty,90
+MN,Caucasian,Graduate degree or more,$150k+ : upper class,1476
+MN,Caucasian,Graduate degree or more,$15k - $35k: low income,214
+MN,Caucasian,Graduate degree or more,$35k - $70k: middle class,600
+MN,Caucasian,Graduate degree or more,$70 - $150k: upper middle class,1438
+MN,Caucasian,Highschool diploma,$0 - $15k: living in poverty,583
+MN,Caucasian,Highschool diploma,$150k+ : upper class,1981
+MN,Caucasian,Highschool diploma,$15k - $35k: low income,1313
+MN,Caucasian,Highschool diploma,$35k - $70k: middle class,3085
+MN,Caucasian,Highschool diploma,$70 - $150k: upper middle class,4380
+MN,Caucasian,No highschool diploma,$0 - $15k: living in poverty,1737
+MN,Caucasian,No highschool diploma,$150k+ : upper class,4825
+MN,Caucasian,No highschool diploma,$15k - $35k: low income,3741
+MN,Caucasian,No highschool diploma,$35k - $70k: middle class,7072
+MN,Caucasian,No highschool diploma,$70 - $150k: upper middle class,9232
+MN,Caucasian,Undergraduate degree,$0 - $15k: living in poverty,274
+MN,Caucasian,Undergraduate degree,$150k+ : upper class,2234
+MN,Caucasian,Undergraduate degree,$15k - $35k: low income,616
+MN,Caucasian,Undergraduate degree,$35k - $70k: middle class,1702
+MN,Caucasian,Undergraduate degree,$70 - $150k: upper middle class,3423
+MN,Not Caucasian,Graduate degree or more,$0 - $15k: living in poverty,16
+MN,Not Caucasian,Graduate degree or more,$150k+ : upper class,132
+MN,Not Caucasian,Graduate degree or more,$15k - $35k: low income,34
+MN,Not Caucasian,Graduate degree or more,$35k - $70k: middle class,80
+MN,Not Caucasian,Graduate degree or more,$70 - $150k: upper middle class,95
+MN,Not Caucasian,Highschool diploma,$0 - $15k: living in poverty,125
+MN,Not Caucasian,Highschool diploma,$150k+ : upper class,201
+MN,Not Caucasian,Highschool diploma,$15k - $35k: low income,143
+MN,Not Caucasian,Highschool diploma,$35k - $70k: middle class,232
+MN,Not Caucasian,Highschool diploma,$70 - $150k: upper middle class,224
+MN,Not Caucasian,No highschool diploma,$0 - $15k: living in poverty,430
+MN,Not Caucasian,No highschool diploma,$150k+ : upper class,864
+MN,Not Caucasian,No highschool diploma,$15k - $35k: low income,737
+MN,Not Caucasian,No highschool diploma,$35k - $70k: middle class,1025
+MN,Not Caucasian,No highschool diploma,$70 - $150k: upper middle class,905
+MN,Not Caucasian,Undergraduate degree,$0 - $15k: living in poverty,34
+MN,Not Caucasian,Undergraduate degree,$150k+ : upper class,123
+MN,Not Caucasian,Undergraduate degree,$15k - $35k: low income,56
+MN,Not Caucasian,Undergraduate degree,$35k - $70k: middle class,137
+MN,Not Caucasian,Undergraduate degree,$70 - $150k: upper middle class,174
+MO,Caucasian,Graduate degree or more,$0 - $15k: living in poverty,121
+MO,Caucasian,Graduate degree or more,$150k+ : upper class,1427
+MO,Caucasian,Graduate degree or more,$15k - $35k: low income,263
+MO,Caucasian,Graduate degree or more,$35k - $70k: middle class,818
+MO,Caucasian,Graduate degree or more,$70 - $150k: upper middle class,1794
+MO,Caucasian,Highschool diploma,$0 - $15k: living in poverty,813
+MO,Caucasian,Highschool diploma,$150k+ : upper class,1612
+MO,Caucasian,Highschool diploma,$15k - $35k: low income,1532
+MO,Caucasian,Highschool diploma,$35k - $70k: middle class,2851
+MO,Caucasian,Highschool diploma,$70 - $150k: upper middle class,3033
+MO,Caucasian,No highschool diploma,$0 - $15k: living in poverty,3511
+MO,Caucasian,No highschool diploma,$150k+ : upper class,4754
+MO,Caucasian,No highschool diploma,$15k - $35k: low income,6343
+MO,Caucasian,No highschool diploma,$35k - $70k: middle class,9533
+MO,Caucasian,No highschool diploma,$70 - $150k: upper middle class,8935
+MO,Caucasian,Undergraduate degree,$0 - $15k: living in poverty,331
+MO,Caucasian,Undergraduate degree,$150k+ : upper class,1709
+MO,Caucasian,Undergraduate degree,$15k - $35k: low income,656
+MO,Caucasian,Undergraduate degree,$35k - $70k: middle class,1792
+MO,Caucasian,Undergraduate degree,$70 - $150k: upper middle class,2792
+MO,Not Caucasian,Graduate degree or more,$0 - $15k: living in poverty,36
+MO,Not Caucasian,Graduate degree or more,$150k+ : upper class,188
+MO,Not Caucasian,Graduate degree or more,$15k - $35k: low income,52
+MO,Not Caucasian,Graduate degree or more,$35k - $70k: middle class,133
+MO,Not Caucasian,Graduate degree or more,$70 - $150k: upper middle class,195
+MO,Not Caucasian,Highschool diploma,$0 - $15k: living in poverty,170
+MO,Not Caucasian,Highschool diploma,$150k+ : upper class,282
+MO,Not Caucasian,Highschool diploma,$15k - $35k: low income,291
+MO,Not Caucasian,Highschool diploma,$35k - $70k: middle class,380
+MO,Not Caucasian,Highschool diploma,$70 - $150k: upper middle class,334
+MO,Not Caucasian,No highschool diploma,$0 - $15k: living in poverty,805
+MO,Not Caucasian,No highschool diploma,$150k+ : upper class,906
+MO,Not Caucasian,No highschool diploma,$15k - $35k: low income,1209
+MO,Not Caucasian,No highschool diploma,$35k - $70k: middle class,1121
+MO,Not Caucasian,No highschool diploma,$70 - $150k: upper middle class,967
+MO,Not Caucasian,Undergraduate degree,$0 - $15k: living in poverty,85
+MO,Not Caucasian,Undergraduate degree,$150k+ : upper class,129
+MO,Not Caucasian,Undergraduate degree,$15k - $35k: low income,111
+MO,Not Caucasian,Undergraduate degree,$35k - $70k: middle class,188
+MO,Not Caucasian,Undergraduate degree,$70 - $150k: upper middle class,214
+MS,Caucasian,Graduate degree or more,$0 - $15k: living in poverty,38
+MS,Caucasian,Graduate degree or more,$150k+ : upper class,465
+MS,Caucasian,Graduate degree or more,$15k - $35k: low income,83
+MS,Caucasian,Graduate degree or more,$35k - $70k: middle class,281
+MS,Caucasian,Graduate degree or more,$70 - $150k: upper middle class,626
+MS,Caucasian,Highschool diploma,$0 - $15k: living in poverty,313
+MS,Caucasian,Highschool diploma,$150k+ : upper class,616
+MS,Caucasian,Highschool diploma,$15k - $35k: low income,603
+MS,Caucasian,Highschool diploma,$35k - $70k: middle class,1108
+MS,Caucasian,Highschool diploma,$70 - $150k: upper middle class,1194
+MS,Caucasian,No highschool diploma,$0 - $15k: living in poverty,1155
+MS,Caucasian,No highschool diploma,$150k+ : upper class,1466
+MS,Caucasian,No highschool diploma,$15k - $35k: low income,2034
+MS,Caucasian,No highschool diploma,$35k - $70k: middle class,3050
+MS,Caucasian,No highschool diploma,$70 - $150k: upper middle class,2892
+MS,Caucasian,Undergraduate degree,$0 - $15k: living in poverty,124
+MS,Caucasian,Undergraduate degree,$150k+ : upper class,566
+MS,Caucasian,Undergraduate degree,$15k - $35k: low income,209
+MS,Caucasian,Undergraduate degree,$35k - $70k: middle class,569
+MS,Caucasian,Undergraduate degree,$70 - $150k: upper middle class,973
+MS,Not Caucasian,Graduate degree or more,$0 - $15k: living in poverty,34
+MS,Not Caucasian,Graduate degree or more,$150k+ : upper class,79
+MS,Not Caucasian,Graduate degree or more,$15k - $35k: low income,55
+MS,Not Caucasian,Graduate degree or more,$35k - $70k: middle class,142
+MS,Not Caucasian,Graduate degree or more,$70 - $150k: upper middle class,198
+MS,Not Caucasian,Highschool diploma,$0 - $15k: living in poverty,332
+MS,Not Caucasian,Highschool diploma,$150k+ : upper class,322
+MS,Not Caucasian,Highschool diploma,$15k - $35k: low income,477
+MS,Not Caucasian,Highschool diploma,$35k - $70k: middle class,620
+MS,Not Caucasian,Highschool diploma,$70 - $150k: upper middle class,411
+MS,Not Caucasian,No highschool diploma,$0 - $15k: living in poverty,1779
+MS,Not Caucasian,No highschool diploma,$150k+ : upper class,808
+MS,Not Caucasian,No highschool diploma,$15k - $35k: low income,2002
+MS,Not Caucasian,No highschool diploma,$35k - $70k: middle class,1699
+MS,Not Caucasian,No highschool diploma,$70 - $150k: upper middle class,1019
+MS,Not Caucasian,Undergraduate degree,$0 - $15k: living in poverty,78
+MS,Not Caucasian,Undergraduate degree,$150k+ : upper class,72
+MS,Not Caucasian,Undergraduate degree,$15k - $35k: low income,147
+MS,Not Caucasian,Undergraduate degree,$35k - $70k: middle class,232
+MS,Not Caucasian,Undergraduate degree,$70 - $150k: upper middle class,253
+MT,Caucasian,Graduate degree or more,$0 - $15k: living in poverty,31
+MT,Caucasian,Graduate degree or more,$150k+ : upper class,173
+MT,Caucasian,Graduate degree or more,$15k - $35k: low income,60
+MT,Caucasian,Graduate degree or more,$35k - $70k: middle class,184
+MT,Caucasian,Graduate degree or more,$70 - $150k: upper middle class,303
+MT,Caucasian,Highschool diploma,$0 - $15k: living in poverty,191
+MT,Caucasian,Highschool diploma,$150k+ : upper class,305
+MT,Caucasian,Highschool diploma,$15k - $35k: low income,336
+MT,Caucasian,Highschool diploma,$35k - $70k: middle class,564
+MT,Caucasian,Highschool diploma,$70 - $150k: upper middle class,595
+MT,Caucasian,No highschool diploma,$0 - $15k: living in poverty,442
+MT,Caucasian,No highschool diploma,$150k+ : upper class,659
+MT,Caucasian,No highschool diploma,$15k - $35k: low income,903
+MT,Caucasian,No highschool diploma,$35k - $70k: middle class,1514
+MT,Caucasian,No highschool diploma,$70 - $150k: upper middle class,1382
+MT,Caucasian,Undergraduate degree,$0 - $15k: living in poverty,87
+MT,Caucasian,Undergraduate degree,$150k+ : upper class,266
+MT,Caucasian,Undergraduate degree,$15k - $35k: low income,201
+MT,Caucasian,Undergraduate degree,$35k - $70k: middle class,448
+MT,Caucasian,Undergraduate degree,$70 - $150k: upper middle class,530
+MT,Not Caucasian,Graduate degree or more,$0 - $15k: living in poverty,1
+MT,Not Caucasian,Graduate degree or more,$150k+ : upper class,5
+MT,Not Caucasian,Graduate degree or more,$15k - $35k: low income,3
+MT,Not Caucasian,Graduate degree or more,$35k - $70k: middle class,11
+MT,Not Caucasian,Graduate degree or more,$70 - $150k: upper middle class,18
+MT,Not Caucasian,Highschool diploma,$0 - $15k: living in poverty,33
+MT,Not Caucasian,Highschool diploma,$150k+ : upper class,25
+MT,Not Caucasian,Highschool diploma,$15k - $35k: low income,40
+MT,Not Caucasian,Highschool diploma,$35k - $70k: middle class,66
+MT,Not Caucasian,Highschool diploma,$70 - $150k: upper middle class,51
+MT,Not Caucasian,No highschool diploma,$0 - $15k: living in poverty,168
+MT,Not Caucasian,No highschool diploma,$150k+ : upper class,90
+MT,Not Caucasian,No highschool diploma,$15k - $35k: low income,158
+MT,Not Caucasian,No highschool diploma,$35k - $70k: middle class,241
+MT,Not Caucasian,No highschool diploma,$70 - $150k: upper middle class,165
+MT,Not Caucasian,Undergraduate degree,$0 - $15k: living in poverty,5
+MT,Not Caucasian,Undergraduate degree,$150k+ : upper class,17
+MT,Not Caucasian,Undergraduate degree,$15k - $35k: low income,18
+MT,Not Caucasian,Undergraduate degree,$35k - $70k: middle class,19
+MT,Not Caucasian,Undergraduate degree,$70 - $150k: upper middle class,28
+NC,Caucasian,Graduate degree or more,$0 - $15k: living in poverty,200
+NC,Caucasian,Graduate degree or more,$150k+ : upper class,2619
+NC,Caucasian,Graduate degree or more,$15k - $35k: low income,415
+NC,Caucasian,Graduate degree or more,$35k - $70k: middle class,1315
+NC,Caucasian,Graduate degree or more,$70 - $150k: upper middle class,2905
+NC,Caucasian,Highschool diploma,$0 - $15k: living in poverty,1120
+NC,Caucasian,Highschool diploma,$150k+ : upper class,2605
+NC,Caucasian,Highschool diploma,$15k - $35k: low income,2172
+NC,Caucasian,Highschool diploma,$35k - $70k: middle class,4369
+NC,Caucasian,Highschool diploma,$70 - $150k: upper middle class,5028
+NC,Caucasian,No highschool diploma,$0 - $15k: living in poverty,3785
+NC,Caucasian,No highschool diploma,$150k+ : upper class,6352
+NC,Caucasian,No highschool diploma,$15k - $35k: low income,7243
+NC,Caucasian,No highschool diploma,$35k - $70k: middle class,10603
+NC,Caucasian,No highschool diploma,$70 - $150k: upper middle class,11106
+NC,Caucasian,Undergraduate degree,$0 - $15k: living in poverty,564
+NC,Caucasian,Undergraduate degree,$150k+ : upper class,3418
+NC,Caucasian,Undergraduate degree,$15k - $35k: low income,1155
+NC,Caucasian,Undergraduate degree,$35k - $70k: middle class,3127
+NC,Caucasian,Undergraduate degree,$70 - $150k: upper middle class,5136
+NC,Not Caucasian,Graduate degree or more,$0 - $15k: living in poverty,72
+NC,Not Caucasian,Graduate degree or more,$150k+ : upper class,555
+NC,Not Caucasian,Graduate degree or more,$15k - $35k: low income,159
+NC,Not Caucasian,Graduate degree or more,$35k - $70k: middle class,399
+NC,Not Caucasian,Graduate degree or more,$70 - $150k: upper middle class,618
+NC,Not Caucasian,Highschool diploma,$0 - $15k: living in poverty,636
+NC,Not Caucasian,Highschool diploma,$150k+ : upper class,862
+NC,Not Caucasian,Highschool diploma,$15k - $35k: low income,1132
+NC,Not Caucasian,Highschool diploma,$35k - $70k: middle class,1457
+NC,Not Caucasian,Highschool diploma,$70 - $150k: upper middle class,1133
+NC,Not Caucasian,No highschool diploma,$0 - $15k: living in poverty,2841
+NC,Not Caucasian,No highschool diploma,$150k+ : upper class,2551
+NC,Not Caucasian,No highschool diploma,$15k - $35k: low income,4402
+NC,Not Caucasian,No highschool diploma,$35k - $70k: middle class,4564
+NC,Not Caucasian,No highschool diploma,$70 - $150k: upper middle class,3213
+NC,Not Caucasian,Undergraduate degree,$0 - $15k: living in poverty,207
+NC,Not Caucasian,Undergraduate degree,$150k+ : upper class,403
+NC,Not Caucasian,Undergraduate degree,$15k - $35k: low income,403
+NC,Not Caucasian,Undergraduate degree,$35k - $70k: middle class,781
+NC,Not Caucasian,Undergraduate degree,$70 - $150k: upper middle class,898
+ND,Caucasian,Graduate degree or more,$0 - $15k: living in poverty,9
+ND,Caucasian,Graduate degree or more,$150k+ : upper class,129
+ND,Caucasian,Graduate degree or more,$15k - $35k: low income,24
+ND,Caucasian,Graduate degree or more,$35k - $70k: middle class,48
+ND,Caucasian,Graduate degree or more,$70 - $150k: upper middle class,167
+ND,Caucasian,Highschool diploma,$0 - $15k: living in poverty,151
+ND,Caucasian,Highschool diploma,$150k+ : upper class,322
+ND,Caucasian,Highschool diploma,$15k - $35k: low income,194
+ND,Caucasian,Highschool diploma,$35k - $70k: middle class,454
+ND,Caucasian,Highschool diploma,$70 - $150k: upper middle class,643
+ND,Caucasian,No highschool diploma,$0 - $15k: living in poverty,270
+ND,Caucasian,No highschool diploma,$150k+ : upper class,704
+ND,Caucasian,No highschool diploma,$15k - $35k: low income,477
+ND,Caucasian,No highschool diploma,$35k - $70k: middle class,1015
+ND,Caucasian,No highschool diploma,$70 - $150k: upper middle class,1361
+ND,Caucasian,Undergraduate degree,$0 - $15k: living in poverty,35
+ND,Caucasian,Undergraduate degree,$150k+ : upper class,266
+ND,Caucasian,Undergraduate degree,$15k - $35k: low income,83
+ND,Caucasian,Undergraduate degree,$35k - $70k: middle class,263
+ND,Caucasian,Undergraduate degree,$70 - $150k: upper middle class,449
+ND,Not Caucasian,Graduate degree or more,$0 - $15k: living in poverty,3
+ND,Not Caucasian,Graduate degree or more,$150k+ : upper class,5
+ND,Not Caucasian,Graduate degree or more,$15k - $35k: low income,5
+ND,Not Caucasian,Graduate degree or more,$35k - $70k: middle class,4
+ND,Not Caucasian,Graduate degree or more,$70 - $150k: upper middle class,11
+ND,Not Caucasian,Highschool diploma,$0 - $15k: living in poverty,22
+ND,Not Caucasian,Highschool diploma,$150k+ : upper class,33
+ND,Not Caucasian,Highschool diploma,$15k - $35k: low income,26
+ND,Not Caucasian,Highschool diploma,$35k - $70k: middle class,43
+ND,Not Caucasian,Highschool diploma,$70 - $150k: upper middle class,41
+ND,Not Caucasian,No highschool diploma,$0 - $15k: living in poverty,103
+ND,Not Caucasian,No highschool diploma,$150k+ : upper class,84
+ND,Not Caucasian,No highschool diploma,$15k - $35k: low income,102
+ND,Not Caucasian,No highschool diploma,$35k - $70k: middle class,145
+ND,Not Caucasian,No highschool diploma,$70 - $150k: upper middle class,119
+ND,Not Caucasian,Undergraduate degree,$0 - $15k: living in poverty,7
+ND,Not Caucasian,Undergraduate degree,$150k+ : upper class,5
+ND,Not Caucasian,Undergraduate degree,$15k - $35k: low income,11
+ND,Not Caucasian,Undergraduate degree,$35k - $70k: middle class,17
+ND,Not Caucasian,Undergraduate degree,$70 - $150k: upper middle class,26
+NE,Caucasian,Graduate degree or more,$0 - $15k: living in poverty,36
+NE,Caucasian,Graduate degree or more,$150k+ : upper class,355
+NE,Caucasian,Graduate degree or more,$15k - $35k: low income,80
+NE,Caucasian,Graduate degree or more,$35k - $70k: middle class,232
+NE,Caucasian,Graduate degree or more,$70 - $150k: upper middle class,543
+NE,Caucasian,Highschool diploma,$0 - $15k: living in poverty,251
+NE,Caucasian,Highschool diploma,$150k+ : upper class,596
+NE,Caucasian,Highschool diploma,$15k - $35k: low income,541
+NE,Caucasian,Highschool diploma,$35k - $70k: middle class,1089
+NE,Caucasian,Highschool diploma,$70 - $150k: upper middle class,1338
+NE,Caucasian,No highschool diploma,$0 - $15k: living in poverty,845
+NE,Caucasian,No highschool diploma,$150k+ : upper class,1359
+NE,Caucasian,No highschool diploma,$15k - $35k: low income,1695
+NE,Caucasian,No highschool diploma,$35k - $70k: middle class,2740
+NE,Caucasian,No highschool diploma,$70 - $150k: upper middle class,3192
+NE,Caucasian,Undergraduate degree,$0 - $15k: living in poverty,98
+NE,Caucasian,Undergraduate degree,$150k+ : upper class,535
+NE,Caucasian,Undergraduate degree,$15k - $35k: low income,242
+NE,Caucasian,Undergraduate degree,$35k - $70k: middle class,667
+NE,Caucasian,Undergraduate degree,$70 - $150k: upper middle class,1109
+NE,Not Caucasian,Graduate degree or more,$0 - $15k: living in poverty,3
+NE,Not Caucasian,Graduate degree or more,$150k+ : upper class,30
+NE,Not Caucasian,Graduate degree or more,$15k - $35k: low income,7
+NE,Not Caucasian,Graduate degree or more,$35k - $70k: middle class,25
+NE,Not Caucasian,Graduate degree or more,$70 - $150k: upper middle class,31
+NE,Not Caucasian,Highschool diploma,$0 - $15k: living in poverty,30
+NE,Not Caucasian,Highschool diploma,$150k+ : upper class,80
+NE,Not Caucasian,Highschool diploma,$15k - $35k: low income,62
+NE,Not Caucasian,Highschool diploma,$35k - $70k: middle class,88
+NE,Not Caucasian,Highschool diploma,$70 - $150k: upper middle class,66
+NE,Not Caucasian,No highschool diploma,$0 - $15k: living in poverty,187
+NE,Not Caucasian,No highschool diploma,$150k+ : upper class,186
+NE,Not Caucasian,No highschool diploma,$15k - $35k: low income,297
+NE,Not Caucasian,No highschool diploma,$35k - $70k: middle class,401
+NE,Not Caucasian,No highschool diploma,$70 - $150k: upper middle class,245
+NE,Not Caucasian,Undergraduate degree,$0 - $15k: living in poverty,13
+NE,Not Caucasian,Undergraduate degree,$150k+ : upper class,22
+NE,Not Caucasian,Undergraduate degree,$15k - $35k: low income,27
+NE,Not Caucasian,Undergraduate degree,$35k - $70k: middle class,56
+NE,Not Caucasian,Undergraduate degree,$70 - $150k: upper middle class,52
+NH,Caucasian,Graduate degree or more,$0 - $15k: living in poverty,45
+NH,Caucasian,Graduate degree or more,$150k+ : upper class,538
+NH,Caucasian,Graduate degree or more,$15k - $35k: low income,87
+NH,Caucasian,Graduate degree or more,$35k - $70k: middle class,268
+NH,Caucasian,Graduate degree or more,$70 - $150k: upper middle class,560
+NH,Caucasian,Highschool diploma,$0 - $15k: living in poverty,127
+NH,Caucasian,Highschool diploma,$150k+ : upper class,623
+NH,Caucasian,Highschool diploma,$15k - $35k: low income,263
+NH,Caucasian,Highschool diploma,$35k - $70k: middle class,598
+NH,Caucasian,Highschool diploma,$70 - $150k: upper middle class,873
+NH,Caucasian,No highschool diploma,$0 - $15k: living in poverty,463
+NH,Caucasian,No highschool diploma,$150k+ : upper class,1426
+NH,Caucasian,No highschool diploma,$15k - $35k: low income,917
+NH,Caucasian,No highschool diploma,$35k - $70k: middle class,1598
+NH,Caucasian,No highschool diploma,$70 - $150k: upper middle class,2187
+NH,Caucasian,Undergraduate degree,$0 - $15k: living in poverty,73
+NH,Caucasian,Undergraduate degree,$150k+ : upper class,751
+NH,Caucasian,Undergraduate degree,$15k - $35k: low income,176
+NH,Caucasian,Undergraduate degree,$35k - $70k: middle class,460
+NH,Caucasian,Undergraduate degree,$70 - $150k: upper middle class,875
+NH,Not Caucasian,Graduate degree or more,$0 - $15k: living in poverty,4
+NH,Not Caucasian,Graduate degree or more,$150k+ : upper class,38
+NH,Not Caucasian,Graduate degree or more,$15k - $35k: low income,9
+NH,Not Caucasian,Graduate degree or more,$35k - $70k: middle class,9
+NH,Not Caucasian,Graduate degree or more,$70 - $150k: upper middle class,29
+NH,Not Caucasian,Highschool diploma,$0 - $15k: living in poverty,8
+NH,Not Caucasian,Highschool diploma,$150k+ : upper class,68
+NH,Not Caucasian,Highschool diploma,$15k - $35k: low income,16
+NH,Not Caucasian,Highschool diploma,$35k - $70k: middle class,25
+NH,Not Caucasian,Highschool diploma,$70 - $150k: upper middle class,25
+NH,Not Caucasian,No highschool diploma,$0 - $15k: living in poverty,41
+NH,Not Caucasian,No highschool diploma,$150k+ : upper class,152
+NH,Not Caucasian,No highschool diploma,$15k - $35k: low income,74
+NH,Not Caucasian,No highschool diploma,$35k - $70k: middle class,107
+NH,Not Caucasian,No highschool diploma,$70 - $150k: upper middle class,127
+NH,Not Caucasian,Undergraduate degree,$0 - $15k: living in poverty,14
+NH,Not Caucasian,Undergraduate degree,$150k+ : upper class,51
+NH,Not Caucasian,Undergraduate degree,$15k - $35k: low income,16
+NH,Not Caucasian,Undergraduate degree,$35k - $70k: middle class,18
+NH,Not Caucasian,Undergraduate degree,$70 - $150k: upper middle class,41
+NJ,Caucasian,Graduate degree or more,$0 - $15k: living in poverty,138
+NJ,Caucasian,Graduate degree or more,$150k+ : upper class,4502
+NJ,Caucasian,Graduate degree or more,$15k - $35k: low income,266
+NJ,Caucasian,Graduate degree or more,$35k - $70k: middle class,827
+NJ,Caucasian,Graduate degree or more,$70 - $150k: upper middle class,2588
+NJ,Caucasian,Highschool diploma,$0 - $15k: living in poverty,490
+NJ,Caucasian,Highschool diploma,$150k+ : upper class,3203
+NJ,Caucasian,Highschool diploma,$15k - $35k: low income,950
+NJ,Caucasian,Highschool diploma,$35k - $70k: middle class,1929
+NJ,Caucasian,Highschool diploma,$70 - $150k: upper middle class,3449
+NJ,Caucasian,No highschool diploma,$0 - $15k: living in poverty,1935
+NJ,Caucasian,No highschool diploma,$150k+ : upper class,9776
+NJ,Caucasian,No highschool diploma,$15k - $35k: low income,3963
+NJ,Caucasian,No highschool diploma,$35k - $70k: middle class,6438
+NJ,Caucasian,No highschool diploma,$70 - $150k: upper middle class,10121
+NJ,Caucasian,Undergraduate degree,$0 - $15k: living in poverty,376
+NJ,Caucasian,Undergraduate degree,$150k+ : upper class,5703
+NJ,Caucasian,Undergraduate degree,$15k - $35k: low income,683
+NJ,Caucasian,Undergraduate degree,$35k - $70k: middle class,1867
+NJ,Caucasian,Undergraduate degree,$70 - $150k: upper middle class,4583
+NJ,Not Caucasian,Graduate degree or more,$0 - $15k: living in poverty,90
+NJ,Not Caucasian,Graduate degree or more,$150k+ : upper class,1595
+NJ,Not Caucasian,Graduate degree or more,$15k - $35k: low income,122
+NJ,Not Caucasian,Graduate degree or more,$35k - $70k: middle class,313
+NJ,Not Caucasian,Graduate degree or more,$70 - $150k: upper middle class,965
+NJ,Not Caucasian,Highschool diploma,$0 - $15k: living in poverty,261
+NJ,Not Caucasian,Highschool diploma,$150k+ : upper class,1119
+NJ,Not Caucasian,Highschool diploma,$15k - $35k: low income,429
+NJ,Not Caucasian,Highschool diploma,$35k - $70k: middle class,772
+NJ,Not Caucasian,Highschool diploma,$70 - $150k: upper middle class,1057
+NJ,Not Caucasian,No highschool diploma,$0 - $15k: living in poverty,1392
+NJ,Not Caucasian,No highschool diploma,$150k+ : upper class,3810
+NJ,Not Caucasian,No highschool diploma,$15k - $35k: low income,2268
+NJ,Not Caucasian,No highschool diploma,$35k - $70k: middle class,2863
+NJ,Not Caucasian,No highschool diploma,$70 - $150k: upper middle class,3597
+NJ,Not Caucasian,Undergraduate degree,$0 - $15k: living in poverty,195
+NJ,Not Caucasian,Undergraduate degree,$150k+ : upper class,1575
+NJ,Not Caucasian,Undergraduate degree,$15k - $35k: low income,267
+NJ,Not Caucasian,Undergraduate degree,$35k - $70k: middle class,643
+NJ,Not Caucasian,Undergraduate degree,$70 - $150k: upper middle class,1466
+NM,Caucasian,Graduate degree or more,$0 - $15k: living in poverty,62
+NM,Caucasian,Graduate degree or more,$150k+ : upper class,497
+NM,Caucasian,Graduate degree or more,$15k - $35k: low income,130
+NM,Caucasian,Graduate degree or more,$35k - $70k: middle class,327
+NM,Caucasian,Graduate degree or more,$70 - $150k: upper middle class,539
+NM,Caucasian,Highschool diploma,$0 - $15k: living in poverty,310
+NM,Caucasian,Highschool diploma,$150k+ : upper class,376
+NM,Caucasian,Highschool diploma,$15k - $35k: low income,522
+NM,Caucasian,Highschool diploma,$35k - $70k: middle class,766
+NM,Caucasian,Highschool diploma,$70 - $150k: upper middle class,772
+NM,Caucasian,No highschool diploma,$0 - $15k: living in poverty,1098
+NM,Caucasian,No highschool diploma,$150k+ : upper class,867
+NM,Caucasian,No highschool diploma,$15k - $35k: low income,1632
+NM,Caucasian,No highschool diploma,$35k - $70k: middle class,1955
+NM,Caucasian,No highschool diploma,$70 - $150k: upper middle class,1751
+NM,Caucasian,Undergraduate degree,$0 - $15k: living in poverty,148
+NM,Caucasian,Undergraduate degree,$150k+ : upper class,356
+NM,Caucasian,Undergraduate degree,$15k - $35k: low income,251
+NM,Caucasian,Undergraduate degree,$35k - $70k: middle class,504
+NM,Caucasian,Undergraduate degree,$70 - $150k: upper middle class,650
+NM,Not Caucasian,Graduate degree or more,$0 - $15k: living in poverty,12
+NM,Not Caucasian,Graduate degree or more,$150k+ : upper class,53
+NM,Not Caucasian,Graduate degree or more,$15k - $35k: low income,16
+NM,Not Caucasian,Graduate degree or more,$35k - $70k: middle class,61
+NM,Not Caucasian,Graduate degree or more,$70 - $150k: upper middle class,87
+NM,Not Caucasian,Highschool diploma,$0 - $15k: living in poverty,194
+NM,Not Caucasian,Highschool diploma,$150k+ : upper class,101
+NM,Not Caucasian,Highschool diploma,$15k - $35k: low income,267
+NM,Not Caucasian,Highschool diploma,$35k - $70k: middle class,367
+NM,Not Caucasian,Highschool diploma,$70 - $150k: upper middle class,240
+NM,Not Caucasian,No highschool diploma,$0 - $15k: living in poverty,869
+NM,Not Caucasian,No highschool diploma,$150k+ : upper class,341
+NM,Not Caucasian,No highschool diploma,$15k - $35k: low income,1079
+NM,Not Caucasian,No highschool diploma,$35k - $70k: middle class,1020
+NM,Not Caucasian,No highschool diploma,$70 - $150k: upper middle class,674
+NM,Not Caucasian,Undergraduate degree,$0 - $15k: living in poverty,35
+NM,Not Caucasian,Undergraduate degree,$150k+ : upper class,50
+NM,Not Caucasian,Undergraduate degree,$15k - $35k: low income,57
+NM,Not Caucasian,Undergraduate degree,$35k - $70k: middle class,97
+NM,Not Caucasian,Undergraduate degree,$70 - $150k: upper middle class,114
+NV,Caucasian,Graduate degree or more,$0 - $15k: living in poverty,69
+NV,Caucasian,Graduate degree or more,$150k+ : upper class,596
+NV,Caucasian,Graduate degree or more,$15k - $35k: low income,122
+NV,Caucasian,Graduate degree or more,$35k - $70k: middle class,292
+NV,Caucasian,Graduate degree or more,$70 - $150k: upper middle class,578
+NV,Caucasian,Highschool diploma,$0 - $15k: living in poverty,338
+NV,Caucasian,Highschool diploma,$150k+ : upper class,720
+NV,Caucasian,Highschool diploma,$15k - $35k: low income,639
+NV,Caucasian,Highschool diploma,$35k - $70k: middle class,1147
+NV,Caucasian,Highschool diploma,$70 - $150k: upper middle class,1451
+NV,Caucasian,No highschool diploma,$0 - $15k: living in poverty,988
+NV,Caucasian,No highschool diploma,$150k+ : upper class,1602
+NV,Caucasian,No highschool diploma,$15k - $35k: low income,1921
+NV,Caucasian,No highschool diploma,$35k - $70k: middle class,3041
+NV,Caucasian,No highschool diploma,$70 - $150k: upper middle class,3447
+NV,Caucasian,Undergraduate degree,$0 - $15k: living in poverty,114
+NV,Caucasian,Undergraduate degree,$150k+ : upper class,637
+NV,Caucasian,Undergraduate degree,$15k - $35k: low income,276
+NV,Caucasian,Undergraduate degree,$35k - $70k: middle class,605
+NV,Caucasian,Undergraduate degree,$70 - $150k: upper middle class,959
+NV,Not Caucasian,Graduate degree or more,$0 - $15k: living in poverty,25
+NV,Not Caucasian,Graduate degree or more,$150k+ : upper class,133
+NV,Not Caucasian,Graduate degree or more,$15k - $35k: low income,36
+NV,Not Caucasian,Graduate degree or more,$35k - $70k: middle class,78
+NV,Not Caucasian,Graduate degree or more,$70 - $150k: upper middle class,160
+NV,Not Caucasian,Highschool diploma,$0 - $15k: living in poverty,182
+NV,Not Caucasian,Highschool diploma,$150k+ : upper class,206
+NV,Not Caucasian,Highschool diploma,$15k - $35k: low income,307
+NV,Not Caucasian,Highschool diploma,$35k - $70k: middle class,503
+NV,Not Caucasian,Highschool diploma,$70 - $150k: upper middle class,495
+NV,Not Caucasian,No highschool diploma,$0 - $15k: living in poverty,739
+NV,Not Caucasian,No highschool diploma,$150k+ : upper class,612
+NV,Not Caucasian,No highschool diploma,$15k - $35k: low income,1414
+NV,Not Caucasian,No highschool diploma,$35k - $70k: middle class,1834
+NV,Not Caucasian,No highschool diploma,$70 - $150k: upper middle class,1625
+NV,Not Caucasian,Undergraduate degree,$0 - $15k: living in poverty,63
+NV,Not Caucasian,Undergraduate degree,$150k+ : upper class,167
+NV,Not Caucasian,Undergraduate degree,$15k - $35k: low income,138
+NV,Not Caucasian,Undergraduate degree,$35k - $70k: middle class,314
+NV,Not Caucasian,Undergraduate degree,$70 - $150k: upper middle class,354
+NY,Caucasian,Graduate degree or more,$0 - $15k: living in poverty,529
+NY,Caucasian,Graduate degree or more,$150k+ : upper class,8565
+NY,Caucasian,Graduate degree or more,$15k - $35k: low income,998
+NY,Caucasian,Graduate degree or more,$35k - $70k: middle class,2632
+NY,Caucasian,Graduate degree or more,$70 - $150k: upper middle class,6697
+NY,Caucasian,Highschool diploma,$0 - $15k: living in poverty,1737
+NY,Caucasian,Highschool diploma,$150k+ : upper class,5742
+NY,Caucasian,Highschool diploma,$15k - $35k: low income,3058
+NY,Caucasian,Highschool diploma,$35k - $70k: middle class,5751
+NY,Caucasian,Highschool diploma,$70 - $150k: upper middle class,8179
+NY,Caucasian,No highschool diploma,$0 - $15k: living in poverty,6589
+NY,Caucasian,No highschool diploma,$150k+ : upper class,16024
+NY,Caucasian,No highschool diploma,$15k - $35k: low income,11416
+NY,Caucasian,No highschool diploma,$35k - $70k: middle class,16816
+NY,Caucasian,No highschool diploma,$70 - $150k: upper middle class,20660
+NY,Caucasian,Undergraduate degree,$0 - $15k: living in poverty,1018
+NY,Caucasian,Undergraduate degree,$150k+ : upper class,7768
+NY,Caucasian,Undergraduate degree,$15k - $35k: low income,1946
+NY,Caucasian,Undergraduate degree,$35k - $70k: middle class,4458
+NY,Caucasian,Undergraduate degree,$70 - $150k: upper middle class,7891
+NY,Not Caucasian,Graduate degree or more,$0 - $15k: living in poverty,265
+NY,Not Caucasian,Graduate degree or more,$150k+ : upper class,2125
+NY,Not Caucasian,Graduate degree or more,$15k - $35k: low income,314
+NY,Not Caucasian,Graduate degree or more,$35k - $70k: middle class,725
+NY,Not Caucasian,Graduate degree or more,$70 - $150k: upper middle class,1739
+NY,Not Caucasian,Highschool diploma,$0 - $15k: living in poverty,948
+NY,Not Caucasian,Highschool diploma,$150k+ : upper class,2234
+NY,Not Caucasian,Highschool diploma,$15k - $35k: low income,1348
+NY,Not Caucasian,Highschool diploma,$35k - $70k: middle class,2228
+NY,Not Caucasian,Highschool diploma,$70 - $150k: upper middle class,2653
+NY,Not Caucasian,No highschool diploma,$0 - $15k: living in poverty,5049
+NY,Not Caucasian,No highschool diploma,$150k+ : upper class,7406
+NY,Not Caucasian,No highschool diploma,$15k - $35k: low income,6542
+NY,Not Caucasian,No highschool diploma,$35k - $70k: middle class,8022
+NY,Not Caucasian,No highschool diploma,$70 - $150k: upper middle class,8616
+NY,Not Caucasian,Undergraduate degree,$0 - $15k: living in poverty,547
+NY,Not Caucasian,Undergraduate degree,$150k+ : upper class,2429
+NY,Not Caucasian,Undergraduate degree,$15k - $35k: low income,793
+NY,Not Caucasian,Undergraduate degree,$35k - $70k: middle class,1655
+NY,Not Caucasian,Undergraduate degree,$70 - $150k: upper middle class,2855
+OH,Caucasian,Graduate degree or more,$0 - $15k: living in poverty,207
+OH,Caucasian,Graduate degree or more,$150k+ : upper class,2967
+OH,Caucasian,Graduate degree or more,$15k - $35k: low income,422
+OH,Caucasian,Graduate degree or more,$35k - $70k: middle class,1421
+OH,Caucasian,Graduate degree or more,$70 - $150k: upper middle class,3385
+OH,Caucasian,Highschool diploma,$0 - $15k: living in poverty,1385
+OH,Caucasian,Highschool diploma,$150k+ : upper class,3038
+OH,Caucasian,Highschool diploma,$15k - $35k: low income,2534
+OH,Caucasian,Highschool diploma,$35k - $70k: middle class,4803
+OH,Caucasian,Highschool diploma,$70 - $150k: upper middle class,6235
+OH,Caucasian,No highschool diploma,$0 - $15k: living in poverty,5914
+OH,Caucasian,No highschool diploma,$150k+ : upper class,8671
+OH,Caucasian,No highschool diploma,$15k - $35k: low income,10921
+OH,Caucasian,No highschool diploma,$35k - $70k: middle class,17322
+OH,Caucasian,No highschool diploma,$70 - $150k: upper middle class,18598
+OH,Caucasian,Undergraduate degree,$0 - $15k: living in poverty,575
+OH,Caucasian,Undergraduate degree,$150k+ : upper class,3546
+OH,Caucasian,Undergraduate degree,$15k - $35k: low income,1175
+OH,Caucasian,Undergraduate degree,$35k - $70k: middle class,3196
+OH,Caucasian,Undergraduate degree,$70 - $150k: upper middle class,5572
+OH,Not Caucasian,Graduate degree or more,$0 - $15k: living in poverty,67
+OH,Not Caucasian,Graduate degree or more,$150k+ : upper class,401
+OH,Not Caucasian,Graduate degree or more,$15k - $35k: low income,103
+OH,Not Caucasian,Graduate degree or more,$35k - $70k: middle class,243
+OH,Not Caucasian,Graduate degree or more,$70 - $150k: upper middle class,439
+OH,Not Caucasian,Highschool diploma,$0 - $15k: living in poverty,459
+OH,Not Caucasian,Highschool diploma,$150k+ : upper class,552
+OH,Not Caucasian,Highschool diploma,$15k - $35k: low income,639
+OH,Not Caucasian,Highschool diploma,$35k - $70k: middle class,787
+OH,Not Caucasian,Highschool diploma,$70 - $150k: upper middle class,612
+OH,Not Caucasian,No highschool diploma,$0 - $15k: living in poverty,2237
+OH,Not Caucasian,No highschool diploma,$150k+ : upper class,1784
+OH,Not Caucasian,No highschool diploma,$15k - $35k: low income,2567
+OH,Not Caucasian,No highschool diploma,$35k - $70k: middle class,2766
+OH,Not Caucasian,No highschool diploma,$70 - $150k: upper middle class,1980
+OH,Not Caucasian,Undergraduate degree,$0 - $15k: living in poverty,149
+OH,Not Caucasian,Undergraduate degree,$150k+ : upper class,292
+OH,Not Caucasian,Undergraduate degree,$15k - $35k: low income,204
+OH,Not Caucasian,Undergraduate degree,$35k - $70k: middle class,416
+OH,Not Caucasian,Undergraduate degree,$70 - $150k: upper middle class,502
+OK,Caucasian,Graduate degree or more,$0 - $15k: living in poverty,45
+OK,Caucasian,Graduate degree or more,$150k+ : upper class,485
+OK,Caucasian,Graduate degree or more,$15k - $35k: low income,114
+OK,Caucasian,Graduate degree or more,$35k - $70k: middle class,352
+OK,Caucasian,Graduate degree or more,$70 - $150k: upper middle class,653
+OK,Caucasian,Highschool diploma,$0 - $15k: living in poverty,473
+OK,Caucasian,Highschool diploma,$150k+ : upper class,785
+OK,Caucasian,Highschool diploma,$15k - $35k: low income,887
+OK,Caucasian,Highschool diploma,$35k - $70k: middle class,1487
+OK,Caucasian,Highschool diploma,$70 - $150k: upper middle class,1544
+OK,Caucasian,No highschool diploma,$0 - $15k: living in poverty,1993
+OK,Caucasian,No highschool diploma,$150k+ : upper class,2286
+OK,Caucasian,No highschool diploma,$15k - $35k: low income,3453
+OK,Caucasian,No highschool diploma,$35k - $70k: middle class,4854
+OK,Caucasian,No highschool diploma,$70 - $150k: upper middle class,4360
+OK,Caucasian,Undergraduate degree,$0 - $15k: living in poverty,156
+OK,Caucasian,Undergraduate degree,$150k+ : upper class,705
+OK,Caucasian,Undergraduate degree,$15k - $35k: low income,344
+OK,Caucasian,Undergraduate degree,$35k - $70k: middle class,806
+OK,Caucasian,Undergraduate degree,$70 - $150k: upper middle class,1308
+OK,Not Caucasian,Graduate degree or more,$0 - $15k: living in poverty,21
+OK,Not Caucasian,Graduate degree or more,$150k+ : upper class,93
+OK,Not Caucasian,Graduate degree or more,$15k - $35k: low income,35
+OK,Not Caucasian,Graduate degree or more,$35k - $70k: middle class,105
+OK,Not Caucasian,Graduate degree or more,$70 - $150k: upper middle class,158
+OK,Not Caucasian,Highschool diploma,$0 - $15k: living in poverty,212
+OK,Not Caucasian,Highschool diploma,$150k+ : upper class,279
+OK,Not Caucasian,Highschool diploma,$15k - $35k: low income,353
+OK,Not Caucasian,Highschool diploma,$35k - $70k: middle class,449
+OK,Not Caucasian,Highschool diploma,$70 - $150k: upper middle class,439
+OK,Not Caucasian,No highschool diploma,$0 - $15k: living in poverty,1212
+OK,Not Caucasian,No highschool diploma,$150k+ : upper class,1032
+OK,Not Caucasian,No highschool diploma,$15k - $35k: low income,1726
+OK,Not Caucasian,No highschool diploma,$35k - $70k: middle class,2027
+OK,Not Caucasian,No highschool diploma,$70 - $150k: upper middle class,1693
+OK,Not Caucasian,Undergraduate degree,$0 - $15k: living in poverty,43
+OK,Not Caucasian,Undergraduate degree,$150k+ : upper class,105
+OK,Not Caucasian,Undergraduate degree,$15k - $35k: low income,91
+OK,Not Caucasian,Undergraduate degree,$35k - $70k: middle class,206
+OK,Not Caucasian,Undergraduate degree,$70 - $150k: upper middle class,279
+OR,Caucasian,Graduate degree or more,$0 - $15k: living in poverty,130
+OR,Caucasian,Graduate degree or more,$150k+ : upper class,1268
+OR,Caucasian,Graduate degree or more,$15k - $35k: low income,283
+OR,Caucasian,Graduate degree or more,$35k - $70k: middle class,667
+OR,Caucasian,Graduate degree or more,$70 - $150k: upper middle class,1434
+OR,Caucasian,Highschool diploma,$0 - $15k: living in poverty,748
+OR,Caucasian,Highschool diploma,$150k+ : upper class,1244
+OR,Caucasian,Highschool diploma,$15k - $35k: low income,1325
+OR,Caucasian,Highschool diploma,$35k - $70k: middle class,2055
+OR,Caucasian,Highschool diploma,$70 - $150k: upper middle class,2583
+OR,Caucasian,No highschool diploma,$0 - $15k: living in poverty,1820
+OR,Caucasian,No highschool diploma,$150k+ : upper class,3319
+OR,Caucasian,No highschool diploma,$15k - $35k: low income,3019
+OR,Caucasian,No highschool diploma,$35k - $70k: middle class,4712
+OR,Caucasian,No highschool diploma,$70 - $150k: upper middle class,5518
+OR,Caucasian,Undergraduate degree,$0 - $15k: living in poverty,346
+OR,Caucasian,Undergraduate degree,$150k+ : upper class,1541
+OR,Caucasian,Undergraduate degree,$15k - $35k: low income,643
+OR,Caucasian,Undergraduate degree,$35k - $70k: middle class,1370
+OR,Caucasian,Undergraduate degree,$70 - $150k: upper middle class,2297
+OR,Not Caucasian,Graduate degree or more,$0 - $15k: living in poverty,16
+OR,Not Caucasian,Graduate degree or more,$150k+ : upper class,204
+OR,Not Caucasian,Graduate degree or more,$15k - $35k: low income,30
+OR,Not Caucasian,Graduate degree or more,$35k - $70k: middle class,80
+OR,Not Caucasian,Graduate degree or more,$70 - $150k: upper middle class,170
+OR,Not Caucasian,Highschool diploma,$0 - $15k: living in poverty,135
+OR,Not Caucasian,Highschool diploma,$150k+ : upper class,222
+OR,Not Caucasian,Highschool diploma,$15k - $35k: low income,163
+OR,Not Caucasian,Highschool diploma,$35k - $70k: middle class,282
+OR,Not Caucasian,Highschool diploma,$70 - $150k: upper middle class,279
+OR,Not Caucasian,No highschool diploma,$0 - $15k: living in poverty,372
+OR,Not Caucasian,No highschool diploma,$150k+ : upper class,761
+OR,Not Caucasian,No highschool diploma,$15k - $35k: low income,621
+OR,Not Caucasian,No highschool diploma,$35k - $70k: middle class,914
+OR,Not Caucasian,No highschool diploma,$70 - $150k: upper middle class,880
+OR,Not Caucasian,Undergraduate degree,$0 - $15k: living in poverty,54
+OR,Not Caucasian,Undergraduate degree,$150k+ : upper class,147
+OR,Not Caucasian,Undergraduate degree,$15k - $35k: low income,84
+OR,Not Caucasian,Undergraduate degree,$35k - $70k: middle class,139
+OR,Not Caucasian,Undergraduate degree,$70 - $150k: upper middle class,242
+PA,Caucasian,Graduate degree or more,$0 - $15k: living in poverty,244
+PA,Caucasian,Graduate degree or more,$150k+ : upper class,3849
+PA,Caucasian,Graduate degree or more,$15k - $35k: low income,524
+PA,Caucasian,Graduate degree or more,$35k - $70k: middle class,1596
+PA,Caucasian,Graduate degree or more,$70 - $150k: upper middle class,3853
+PA,Caucasian,Highschool diploma,$0 - $15k: living in poverty,1259
+PA,Caucasian,Highschool diploma,$150k+ : upper class,3626
+PA,Caucasian,Highschool diploma,$15k - $35k: low income,2265
+PA,Caucasian,Highschool diploma,$35k - $70k: middle class,4636
+PA,Caucasian,Highschool diploma,$70 - $150k: upper middle class,6349
+PA,Caucasian,No highschool diploma,$0 - $15k: living in poverty,5704
+PA,Caucasian,No highschool diploma,$150k+ : upper class,10936
+PA,Caucasian,No highschool diploma,$15k - $35k: low income,11803
+PA,Caucasian,No highschool diploma,$35k - $70k: middle class,18924
+PA,Caucasian,No highschool diploma,$70 - $150k: upper middle class,21002
+PA,Caucasian,Undergraduate degree,$0 - $15k: living in poverty,642
+PA,Caucasian,Undergraduate degree,$150k+ : upper class,4463
+PA,Caucasian,Undergraduate degree,$15k - $35k: low income,1312
+PA,Caucasian,Undergraduate degree,$35k - $70k: middle class,3491
+PA,Caucasian,Undergraduate degree,$70 - $150k: upper middle class,6309
+PA,Not Caucasian,Graduate degree or more,$0 - $15k: living in poverty,88
+PA,Not Caucasian,Graduate degree or more,$150k+ : upper class,474
+PA,Not Caucasian,Graduate degree or more,$15k - $35k: low income,89
+PA,Not Caucasian,Graduate degree or more,$35k - $70k: middle class,242
+PA,Not Caucasian,Graduate degree or more,$70 - $150k: upper middle class,446
+PA,Not Caucasian,Highschool diploma,$0 - $15k: living in poverty,330
+PA,Not Caucasian,Highschool diploma,$150k+ : upper class,638
+PA,Not Caucasian,Highschool diploma,$15k - $35k: low income,390
+PA,Not Caucasian,Highschool diploma,$35k - $70k: middle class,596
+PA,Not Caucasian,Highschool diploma,$70 - $150k: upper middle class,588
+PA,Not Caucasian,No highschool diploma,$0 - $15k: living in poverty,1662
+PA,Not Caucasian,No highschool diploma,$150k+ : upper class,2365
+PA,Not Caucasian,No highschool diploma,$15k - $35k: low income,2160
+PA,Not Caucasian,No highschool diploma,$35k - $70k: middle class,2252
+PA,Not Caucasian,No highschool diploma,$70 - $150k: upper middle class,2233
+PA,Not Caucasian,Undergraduate degree,$0 - $15k: living in poverty,164
+PA,Not Caucasian,Undergraduate degree,$150k+ : upper class,356
+PA,Not Caucasian,Undergraduate degree,$15k - $35k: low income,194
+PA,Not Caucasian,Undergraduate degree,$35k - $70k: middle class,418
+PA,Not Caucasian,Undergraduate degree,$70 - $150k: upper middle class,594
+RI,Caucasian,Graduate degree or more,$0 - $15k: living in poverty,38
+RI,Caucasian,Graduate degree or more,$150k+ : upper class,463
+RI,Caucasian,Graduate degree or more,$15k - $35k: low income,63
+RI,Caucasian,Graduate degree or more,$35k - $70k: middle class,147
+RI,Caucasian,Graduate degree or more,$70 - $150k: upper middle class,403
+RI,Caucasian,Highschool diploma,$0 - $15k: living in poverty,101
+RI,Caucasian,Highschool diploma,$150k+ : upper class,408
+RI,Caucasian,Highschool diploma,$15k - $35k: low income,173
+RI,Caucasian,Highschool diploma,$35k - $70k: middle class,359
+RI,Caucasian,Highschool diploma,$70 - $150k: upper middle class,568
+RI,Caucasian,No highschool diploma,$0 - $15k: living in poverty,471
+RI,Caucasian,No highschool diploma,$150k+ : upper class,1019
+RI,Caucasian,No highschool diploma,$15k - $35k: low income,677
+RI,Caucasian,No highschool diploma,$35k - $70k: middle class,1035
+RI,Caucasian,No highschool diploma,$70 - $150k: upper middle class,1396
+RI,Caucasian,Undergraduate degree,$0 - $15k: living in poverty,48
+RI,Caucasian,Undergraduate degree,$150k+ : upper class,487
+RI,Caucasian,Undergraduate degree,$15k - $35k: low income,123
+RI,Caucasian,Undergraduate degree,$35k - $70k: middle class,322
+RI,Caucasian,Undergraduate degree,$70 - $150k: upper middle class,611
+RI,Not Caucasian,Graduate degree or more,$0 - $15k: living in poverty,8
+RI,Not Caucasian,Graduate degree or more,$150k+ : upper class,27
+RI,Not Caucasian,Graduate degree or more,$15k - $35k: low income,21
+RI,Not Caucasian,Graduate degree or more,$35k - $70k: middle class,25
+RI,Not Caucasian,Graduate degree or more,$70 - $150k: upper middle class,57
+RI,Not Caucasian,Highschool diploma,$0 - $15k: living in poverty,18
+RI,Not Caucasian,Highschool diploma,$150k+ : upper class,64
+RI,Not Caucasian,Highschool diploma,$15k - $35k: low income,35
+RI,Not Caucasian,Highschool diploma,$35k - $70k: middle class,45
+RI,Not Caucasian,Highschool diploma,$70 - $150k: upper middle class,64
+RI,Not Caucasian,No highschool diploma,$0 - $15k: living in poverty,141
+RI,Not Caucasian,No highschool diploma,$150k+ : upper class,211
+RI,Not Caucasian,No highschool diploma,$15k - $35k: low income,198
+RI,Not Caucasian,No highschool diploma,$35k - $70k: middle class,229
+RI,Not Caucasian,No highschool diploma,$70 - $150k: upper middle class,268
+RI,Not Caucasian,Undergraduate degree,$0 - $15k: living in poverty,25
+RI,Not Caucasian,Undergraduate degree,$150k+ : upper class,31
+RI,Not Caucasian,Undergraduate degree,$15k - $35k: low income,19
+RI,Not Caucasian,Undergraduate degree,$35k - $70k: middle class,31
+RI,Not Caucasian,Undergraduate degree,$70 - $150k: upper middle class,60
+SC,Caucasian,Graduate degree or more,$0 - $15k: living in poverty,82
+SC,Caucasian,Graduate degree or more,$150k+ : upper class,1145
+SC,Caucasian,Graduate degree or more,$15k - $35k: low income,222
+SC,Caucasian,Graduate degree or more,$35k - $70k: middle class,664
+SC,Caucasian,Graduate degree or more,$70 - $150k: upper middle class,1442
+SC,Caucasian,Highschool diploma,$0 - $15k: living in poverty,568
+SC,Caucasian,Highschool diploma,$150k+ : upper class,1243
+SC,Caucasian,Highschool diploma,$15k - $35k: low income,1178
+SC,Caucasian,Highschool diploma,$35k - $70k: middle class,2042
+SC,Caucasian,Highschool diploma,$70 - $150k: upper middle class,2438
+SC,Caucasian,No highschool diploma,$0 - $15k: living in poverty,1871
+SC,Caucasian,No highschool diploma,$150k+ : upper class,2895
+SC,Caucasian,No highschool diploma,$15k - $35k: low income,3737
+SC,Caucasian,No highschool diploma,$35k - $70k: middle class,5306
+SC,Caucasian,No highschool diploma,$70 - $150k: upper middle class,5580
+SC,Caucasian,Undergraduate degree,$0 - $15k: living in poverty,277
+SC,Caucasian,Undergraduate degree,$150k+ : upper class,1443
+SC,Caucasian,Undergraduate degree,$15k - $35k: low income,573
+SC,Caucasian,Undergraduate degree,$35k - $70k: middle class,1385
+SC,Caucasian,Undergraduate degree,$70 - $150k: upper middle class,2178
+SC,Not Caucasian,Graduate degree or more,$0 - $15k: living in poverty,48
+SC,Not Caucasian,Graduate degree or more,$150k+ : upper class,124
+SC,Not Caucasian,Graduate degree or more,$15k - $35k: low income,81
+SC,Not Caucasian,Graduate degree or more,$35k - $70k: middle class,165
+SC,Not Caucasian,Graduate degree or more,$70 - $150k: upper middle class,256
+SC,Not Caucasian,Highschool diploma,$0 - $15k: living in poverty,316
+SC,Not Caucasian,Highschool diploma,$150k+ : upper class,372
+SC,Not Caucasian,Highschool diploma,$15k - $35k: low income,520
+SC,Not Caucasian,Highschool diploma,$35k - $70k: middle class,742
+SC,Not Caucasian,Highschool diploma,$70 - $150k: upper middle class,518
+SC,Not Caucasian,No highschool diploma,$0 - $15k: living in poverty,1746
+SC,Not Caucasian,No highschool diploma,$150k+ : upper class,1238
+SC,Not Caucasian,No highschool diploma,$15k - $35k: low income,2438
+SC,Not Caucasian,No highschool diploma,$35k - $70k: middle class,2350
+SC,Not Caucasian,No highschool diploma,$70 - $150k: upper middle class,1541
+SC,Not Caucasian,Undergraduate degree,$0 - $15k: living in poverty,85
+SC,Not Caucasian,Undergraduate degree,$150k+ : upper class,139
+SC,Not Caucasian,Undergraduate degree,$15k - $35k: low income,170
+SC,Not Caucasian,Undergraduate degree,$35k - $70k: middle class,334
+SC,Not Caucasian,Undergraduate degree,$70 - $150k: upper middle class,366
+SD,Caucasian,Graduate degree or more,$0 - $15k: living in poverty,20
+SD,Caucasian,Graduate degree or more,$150k+ : upper class,114
+SD,Caucasian,Graduate degree or more,$15k - $35k: low income,33
+SD,Caucasian,Graduate degree or more,$35k - $70k: middle class,73
+SD,Caucasian,Graduate degree or more,$70 - $150k: upper middle class,190
+SD,Caucasian,Highschool diploma,$0 - $15k: living in poverty,114
+SD,Caucasian,Highschool diploma,$150k+ : upper class,266
+SD,Caucasian,Highschool diploma,$15k - $35k: low income,209
+SD,Caucasian,Highschool diploma,$35k - $70k: middle class,489
+SD,Caucasian,Highschool diploma,$70 - $150k: upper middle class,610
+SD,Caucasian,No highschool diploma,$0 - $15k: living in poverty,290
+SD,Caucasian,No highschool diploma,$150k+ : upper class,610
+SD,Caucasian,No highschool diploma,$15k - $35k: low income,760
+SD,Caucasian,No highschool diploma,$35k - $70k: middle class,1308
+SD,Caucasian,No highschool diploma,$70 - $150k: upper middle class,1453
+SD,Caucasian,Undergraduate degree,$0 - $15k: living in poverty,40
+SD,Caucasian,Undergraduate degree,$150k+ : upper class,210
+SD,Caucasian,Undergraduate degree,$15k - $35k: low income,104
+SD,Caucasian,Undergraduate degree,$35k - $70k: middle class,285
+SD,Caucasian,Undergraduate degree,$70 - $150k: upper middle class,486
+SD,Not Caucasian,Graduate degree or more,$0 - $15k: living in poverty,3
+SD,Not Caucasian,Graduate degree or more,$150k+ : upper class,6
+SD,Not Caucasian,Graduate degree or more,$15k - $35k: low income,2
+SD,Not Caucasian,Graduate degree or more,$35k - $70k: middle class,12
+SD,Not Caucasian,Graduate degree or more,$70 - $150k: upper middle class,12
+SD,Not Caucasian,Highschool diploma,$0 - $15k: living in poverty,38
+SD,Not Caucasian,Highschool diploma,$150k+ : upper class,26
+SD,Not Caucasian,Highschool diploma,$15k - $35k: low income,38
+SD,Not Caucasian,Highschool diploma,$35k - $70k: middle class,51
+SD,Not Caucasian,Highschool diploma,$70 - $150k: upper middle class,43
+SD,Not Caucasian,No highschool diploma,$0 - $15k: living in poverty,272
+SD,Not Caucasian,No highschool diploma,$150k+ : upper class,129
+SD,Not Caucasian,No highschool diploma,$15k - $35k: low income,232
+SD,Not Caucasian,No highschool diploma,$35k - $70k: middle class,224
+SD,Not Caucasian,No highschool diploma,$70 - $150k: upper middle class,166
+SD,Not Caucasian,Undergraduate degree,$0 - $15k: living in poverty,6
+SD,Not Caucasian,Undergraduate degree,$150k+ : upper class,8
+SD,Not Caucasian,Undergraduate degree,$15k - $35k: low income,14
+SD,Not Caucasian,Undergraduate degree,$35k - $70k: middle class,24
+SD,Not Caucasian,Undergraduate degree,$70 - $150k: upper middle class,16
+TN,Caucasian,Graduate degree or more,$0 - $15k: living in poverty,110
+TN,Caucasian,Graduate degree or more,$150k+ : upper class,1506
+TN,Caucasian,Graduate degree or more,$15k - $35k: low income,242
+TN,Caucasian,Graduate degree or more,$35k - $70k: middle class,886
+TN,Caucasian,Graduate degree or more,$70 - $150k: upper middle class,1781
+TN,Caucasian,Highschool diploma,$0 - $15k: living in poverty,748
+TN,Caucasian,Highschool diploma,$150k+ : upper class,1552
+TN,Caucasian,Highschool diploma,$15k - $35k: low income,1515
+TN,Caucasian,Highschool diploma,$35k - $70k: middle class,2750
+TN,Caucasian,Highschool diploma,$70 - $150k: upper middle class,3322
+TN,Caucasian,No highschool diploma,$0 - $15k: living in poverty,3885
+TN,Caucasian,No highschool diploma,$150k+ : upper class,4260
+TN,Caucasian,No highschool diploma,$15k - $35k: low income,6897
+TN,Caucasian,No highschool diploma,$35k - $70k: middle class,9490
+TN,Caucasian,No highschool diploma,$70 - $150k: upper middle class,9273
+TN,Caucasian,Undergraduate degree,$0 - $15k: living in poverty,365
+TN,Caucasian,Undergraduate degree,$150k+ : upper class,1865
+TN,Caucasian,Undergraduate degree,$15k - $35k: low income,763
+TN,Caucasian,Undergraduate degree,$35k - $70k: middle class,1882
+TN,Caucasian,Undergraduate degree,$70 - $150k: upper middle class,3037
+TN,Not Caucasian,Graduate degree or more,$0 - $15k: living in poverty,35
+TN,Not Caucasian,Graduate degree or more,$150k+ : upper class,204
+TN,Not Caucasian,Graduate degree or more,$15k - $35k: low income,58
+TN,Not Caucasian,Graduate degree or more,$35k - $70k: middle class,183
+TN,Not Caucasian,Graduate degree or more,$70 - $150k: upper middle class,259
+TN,Not Caucasian,Highschool diploma,$0 - $15k: living in poverty,236
+TN,Not Caucasian,Highschool diploma,$150k+ : upper class,353
+TN,Not Caucasian,Highschool diploma,$15k - $35k: low income,430
+TN,Not Caucasian,Highschool diploma,$35k - $70k: middle class,561
+TN,Not Caucasian,Highschool diploma,$70 - $150k: upper middle class,504
+TN,Not Caucasian,No highschool diploma,$0 - $15k: living in poverty,1534
+TN,Not Caucasian,No highschool diploma,$150k+ : upper class,970
+TN,Not Caucasian,No highschool diploma,$15k - $35k: low income,1883
+TN,Not Caucasian,No highschool diploma,$35k - $70k: middle class,1944
+TN,Not Caucasian,No highschool diploma,$70 - $150k: upper middle class,1518
+TN,Not Caucasian,Undergraduate degree,$0 - $15k: living in poverty,105
+TN,Not Caucasian,Undergraduate degree,$150k+ : upper class,209
+TN,Not Caucasian,Undergraduate degree,$15k - $35k: low income,139
+TN,Not Caucasian,Undergraduate degree,$35k - $70k: middle class,302
+TN,Not Caucasian,Undergraduate degree,$70 - $150k: upper middle class,394
+TX,Caucasian,Graduate degree or more,$0 - $15k: living in poverty,492
+TX,Caucasian,Graduate degree or more,$150k+ : upper class,6690
+TX,Caucasian,Graduate degree or more,$15k - $35k: low income,876
+TX,Caucasian,Graduate degree or more,$35k - $70k: middle class,2752
+TX,Caucasian,Graduate degree or more,$70 - $150k: upper middle class,5930
+TX,Caucasian,Highschool diploma,$0 - $15k: living in poverty,2934
+TX,Caucasian,Highschool diploma,$150k+ : upper class,6923
+TX,Caucasian,Highschool diploma,$15k - $35k: low income,5288
+TX,Caucasian,Highschool diploma,$35k - $70k: middle class,9645
+TX,Caucasian,Highschool diploma,$70 - $150k: upper middle class,12302
+TX,Caucasian,No highschool diploma,$0 - $15k: living in poverty,12016
+TX,Caucasian,No highschool diploma,$150k+ : upper class,19952
+TX,Caucasian,No highschool diploma,$15k - $35k: low income,22618
+TX,Caucasian,No highschool diploma,$35k - $70k: middle class,32335
+TX,Caucasian,No highschool diploma,$70 - $150k: upper middle class,34757
+TX,Caucasian,Undergraduate degree,$0 - $15k: living in poverty,1289
+TX,Caucasian,Undergraduate degree,$150k+ : upper class,9899
+TX,Caucasian,Undergraduate degree,$15k - $35k: low income,2511
+TX,Caucasian,Undergraduate degree,$35k - $70k: middle class,6648
+TX,Caucasian,Undergraduate degree,$70 - $150k: upper middle class,11851
+TX,Not Caucasian,Graduate degree or more,$0 - $15k: living in poverty,236
+TX,Not Caucasian,Graduate degree or more,$150k+ : upper class,1915
+TX,Not Caucasian,Graduate degree or more,$15k - $35k: low income,329
+TX,Not Caucasian,Graduate degree or more,$35k - $70k: middle class,845
+TX,Not Caucasian,Graduate degree or more,$70 - $150k: upper middle class,1705
+TX,Not Caucasian,Highschool diploma,$0 - $15k: living in poverty,1004
+TX,Not Caucasian,Highschool diploma,$150k+ : upper class,1811
+TX,Not Caucasian,Highschool diploma,$15k - $35k: low income,1711
+TX,Not Caucasian,Highschool diploma,$35k - $70k: middle class,2605
+TX,Not Caucasian,Highschool diploma,$70 - $150k: upper middle class,2867
+TX,Not Caucasian,No highschool diploma,$0 - $15k: living in poverty,5039
+TX,Not Caucasian,No highschool diploma,$150k+ : upper class,6481
+TX,Not Caucasian,No highschool diploma,$15k - $35k: low income,7843
+TX,Not Caucasian,No highschool diploma,$35k - $70k: middle class,9863
+TX,Not Caucasian,No highschool diploma,$70 - $150k: upper middle class,8863
+TX,Not Caucasian,Undergraduate degree,$0 - $15k: living in poverty,513
+TX,Not Caucasian,Undergraduate degree,$150k+ : upper class,1716
+TX,Not Caucasian,Undergraduate degree,$15k - $35k: low income,737
+TX,Not Caucasian,Undergraduate degree,$35k - $70k: middle class,1756
+TX,Not Caucasian,Undergraduate degree,$70 - $150k: upper middle class,2553
+UT,Caucasian,Graduate degree or more,$0 - $15k: living in poverty,52
+UT,Caucasian,Graduate degree or more,$150k+ : upper class,801
+UT,Caucasian,Graduate degree or more,$15k - $35k: low income,108
+UT,Caucasian,Graduate degree or more,$35k - $70k: middle class,353
+UT,Caucasian,Graduate degree or more,$70 - $150k: upper middle class,950
+UT,Caucasian,Highschool diploma,$0 - $15k: living in poverty,446
+UT,Caucasian,Highschool diploma,$150k+ : upper class,1210
+UT,Caucasian,Highschool diploma,$15k - $35k: low income,694
+UT,Caucasian,Highschool diploma,$35k - $70k: middle class,1463
+UT,Caucasian,Highschool diploma,$70 - $150k: upper middle class,2189
+UT,Caucasian,No highschool diploma,$0 - $15k: living in poverty,817
+UT,Caucasian,No highschool diploma,$150k+ : upper class,3010
+UT,Caucasian,No highschool diploma,$15k - $35k: low income,1570
+UT,Caucasian,No highschool diploma,$35k - $70k: middle class,4048
+UT,Caucasian,No highschool diploma,$70 - $150k: upper middle class,6171
+UT,Caucasian,Undergraduate degree,$0 - $15k: living in poverty,140
+UT,Caucasian,Undergraduate degree,$150k+ : upper class,1009
+UT,Caucasian,Undergraduate degree,$15k - $35k: low income,330
+UT,Caucasian,Undergraduate degree,$35k - $70k: middle class,984
+UT,Caucasian,Undergraduate degree,$70 - $150k: upper middle class,1855
+UT,Not Caucasian,Graduate degree or more,$0 - $15k: living in poverty,14
+UT,Not Caucasian,Graduate degree or more,$150k+ : upper class,57
+UT,Not Caucasian,Graduate degree or more,$15k - $35k: low income,16
+UT,Not Caucasian,Graduate degree or more,$35k - $70k: middle class,26
+UT,Not Caucasian,Graduate degree or more,$70 - $150k: upper middle class,70
+UT,Not Caucasian,Highschool diploma,$0 - $15k: living in poverty,58
+UT,Not Caucasian,Highschool diploma,$150k+ : upper class,127
+UT,Not Caucasian,Highschool diploma,$15k - $35k: low income,66
+UT,Not Caucasian,Highschool diploma,$35k - $70k: middle class,151
+UT,Not Caucasian,Highschool diploma,$70 - $150k: upper middle class,161
+UT,Not Caucasian,No highschool diploma,$0 - $15k: living in poverty,236
+UT,Not Caucasian,No highschool diploma,$150k+ : upper class,349
+UT,Not Caucasian,No highschool diploma,$15k - $35k: low income,322
+UT,Not Caucasian,No highschool diploma,$35k - $70k: middle class,697
+UT,Not Caucasian,No highschool diploma,$70 - $150k: upper middle class,721
+UT,Not Caucasian,Undergraduate degree,$0 - $15k: living in poverty,24
+UT,Not Caucasian,Undergraduate degree,$150k+ : upper class,65
+UT,Not Caucasian,Undergraduate degree,$15k - $35k: low income,32
+UT,Not Caucasian,Undergraduate degree,$35k - $70k: middle class,81
+UT,Not Caucasian,Undergraduate degree,$70 - $150k: upper middle class,130
+VA,Caucasian,Graduate degree or more,$0 - $15k: living in poverty,162
+VA,Caucasian,Graduate degree or more,$150k+ : upper class,4581
+VA,Caucasian,Graduate degree or more,$15k - $35k: low income,307
+VA,Caucasian,Graduate degree or more,$35k - $70k: middle class,1023
+VA,Caucasian,Graduate degree or more,$70 - $150k: upper middle class,3056
+VA,Caucasian,Highschool diploma,$0 - $15k: living in poverty,825
+VA,Caucasian,Highschool diploma,$150k+ : upper class,2536
+VA,Caucasian,Highschool diploma,$15k - $35k: low income,1144
+VA,Caucasian,Highschool diploma,$35k - $70k: middle class,2433
+VA,Caucasian,Highschool diploma,$70 - $150k: upper middle class,3492
+VA,Caucasian,No highschool diploma,$0 - $15k: living in poverty,2383
+VA,Caucasian,No highschool diploma,$150k+ : upper class,7338
+VA,Caucasian,No highschool diploma,$15k - $35k: low income,4208
+VA,Caucasian,No highschool diploma,$35k - $70k: middle class,7250
+VA,Caucasian,No highschool diploma,$70 - $150k: upper middle class,9517
+VA,Caucasian,Undergraduate degree,$0 - $15k: living in poverty,398
+VA,Caucasian,Undergraduate degree,$150k+ : upper class,4225
+VA,Caucasian,Undergraduate degree,$15k - $35k: low income,752
+VA,Caucasian,Undergraduate degree,$35k - $70k: middle class,2016
+VA,Caucasian,Undergraduate degree,$70 - $150k: upper middle class,4273
+VA,Not Caucasian,Graduate degree or more,$0 - $15k: living in poverty,66
+VA,Not Caucasian,Graduate degree or more,$150k+ : upper class,1088
+VA,Not Caucasian,Graduate degree or more,$15k - $35k: low income,118
+VA,Not Caucasian,Graduate degree or more,$35k - $70k: middle class,310
+VA,Not Caucasian,Graduate degree or more,$70 - $150k: upper middle class,794
+VA,Not Caucasian,Highschool diploma,$0 - $15k: living in poverty,331
+VA,Not Caucasian,Highschool diploma,$150k+ : upper class,877
+VA,Not Caucasian,Highschool diploma,$15k - $35k: low income,528
+VA,Not Caucasian,Highschool diploma,$35k - $70k: middle class,943
+VA,Not Caucasian,Highschool diploma,$70 - $150k: upper middle class,1106
+VA,Not Caucasian,No highschool diploma,$0 - $15k: living in poverty,1580
+VA,Not Caucasian,No highschool diploma,$150k+ : upper class,3204
+VA,Not Caucasian,No highschool diploma,$15k - $35k: low income,2178
+VA,Not Caucasian,No highschool diploma,$35k - $70k: middle class,3156
+VA,Not Caucasian,No highschool diploma,$70 - $150k: upper middle class,3364
+VA,Not Caucasian,Undergraduate degree,$0 - $15k: living in poverty,148
+VA,Not Caucasian,Undergraduate degree,$150k+ : upper class,970
+VA,Not Caucasian,Undergraduate degree,$15k - $35k: low income,249
+VA,Not Caucasian,Undergraduate degree,$35k - $70k: middle class,615
+VA,Not Caucasian,Undergraduate degree,$70 - $150k: upper middle class,1211
+VT,Caucasian,Graduate degree or more,$0 - $15k: living in poverty,30
+VT,Caucasian,Graduate degree or more,$150k+ : upper class,198
+VT,Caucasian,Graduate degree or more,$15k - $35k: low income,63
+VT,Caucasian,Graduate degree or more,$35k - $70k: middle class,163
+VT,Caucasian,Graduate degree or more,$70 - $150k: upper middle class,313
+VT,Caucasian,Highschool diploma,$0 - $15k: living in poverty,93
+VT,Caucasian,Highschool diploma,$150k+ : upper class,234
+VT,Caucasian,Highschool diploma,$15k - $35k: low income,167
+VT,Caucasian,Highschool diploma,$35k - $70k: middle class,297
+VT,Caucasian,Highschool diploma,$70 - $150k: upper middle class,337
+VT,Caucasian,No highschool diploma,$0 - $15k: living in poverty,325
+VT,Caucasian,No highschool diploma,$150k+ : upper class,461
+VT,Caucasian,No highschool diploma,$15k - $35k: low income,537
+VT,Caucasian,No highschool diploma,$35k - $70k: middle class,841
+VT,Caucasian,No highschool diploma,$70 - $150k: upper middle class,1017
+VT,Caucasian,Undergraduate degree,$0 - $15k: living in poverty,65
+VT,Caucasian,Undergraduate degree,$150k+ : upper class,207
+VT,Caucasian,Undergraduate degree,$15k - $35k: low income,148
+VT,Caucasian,Undergraduate degree,$35k - $70k: middle class,244
+VT,Caucasian,Undergraduate degree,$70 - $150k: upper middle class,434
+VT,Not Caucasian,Graduate degree or more,$0 - $15k: living in poverty,4
+VT,Not Caucasian,Graduate degree or more,$150k+ : upper class,14
+VT,Not Caucasian,Graduate degree or more,$35k - $70k: middle class,2
+VT,Not Caucasian,Graduate degree or more,$70 - $150k: upper middle class,10
+VT,Not Caucasian,Highschool diploma,$0 - $15k: living in poverty,3
+VT,Not Caucasian,Highschool diploma,$150k+ : upper class,23
+VT,Not Caucasian,Highschool diploma,$15k - $35k: low income,4
+VT,Not Caucasian,Highschool diploma,$35k - $70k: middle class,10
+VT,Not Caucasian,Highschool diploma,$70 - $150k: upper middle class,4
+VT,Not Caucasian,No highschool diploma,$0 - $15k: living in poverty,11
+VT,Not Caucasian,No highschool diploma,$150k+ : upper class,39
+VT,Not Caucasian,No highschool diploma,$15k - $35k: low income,16
+VT,Not Caucasian,No highschool diploma,$35k - $70k: middle class,39
+VT,Not Caucasian,No highschool diploma,$70 - $150k: upper middle class,35
+VT,Not Caucasian,Undergraduate degree,$0 - $15k: living in poverty,5
+VT,Not Caucasian,Undergraduate degree,$150k+ : upper class,14
+VT,Not Caucasian,Undergraduate degree,$15k - $35k: low income,6
+VT,Not Caucasian,Undergraduate degree,$35k - $70k: middle class,13
+VT,Not Caucasian,Undergraduate degree,$70 - $150k: upper middle class,10
+WA,Caucasian,Graduate degree or more,$0 - $15k: living in poverty,176
+WA,Caucasian,Graduate degree or more,$150k+ : upper class,2546
+WA,Caucasian,Graduate degree or more,$15k - $35k: low income,352
+WA,Caucasian,Graduate degree or more,$35k - $70k: middle class,1001
+WA,Caucasian,Graduate degree or more,$70 - $150k: upper middle class,2205
+WA,Caucasian,Highschool diploma,$0 - $15k: living in poverty,1004
+WA,Caucasian,Highschool diploma,$150k+ : upper class,2853
+WA,Caucasian,Highschool diploma,$15k - $35k: low income,1587
+WA,Caucasian,Highschool diploma,$35k - $70k: middle class,3349
+WA,Caucasian,Highschool diploma,$70 - $150k: upper middle class,4408
+WA,Caucasian,No highschool diploma,$0 - $15k: living in poverty,2331
+WA,Caucasian,No highschool diploma,$150k+ : upper class,6114
+WA,Caucasian,No highschool diploma,$15k - $35k: low income,4044
+WA,Caucasian,No highschool diploma,$35k - $70k: middle class,7321
+WA,Caucasian,No highschool diploma,$70 - $150k: upper middle class,9514
+WA,Caucasian,Undergraduate degree,$0 - $15k: living in poverty,423
+WA,Caucasian,Undergraduate degree,$150k+ : upper class,3347
+WA,Caucasian,Undergraduate degree,$15k - $35k: low income,905
+WA,Caucasian,Undergraduate degree,$35k - $70k: middle class,2079
+WA,Caucasian,Undergraduate degree,$70 - $150k: upper middle class,3950
+WA,Not Caucasian,Graduate degree or more,$0 - $15k: living in poverty,51
+WA,Not Caucasian,Graduate degree or more,$150k+ : upper class,809
+WA,Not Caucasian,Graduate degree or more,$15k - $35k: low income,78
+WA,Not Caucasian,Graduate degree or more,$35k - $70k: middle class,208
+WA,Not Caucasian,Graduate degree or more,$70 - $150k: upper middle class,469
+WA,Not Caucasian,Highschool diploma,$0 - $15k: living in poverty,303
+WA,Not Caucasian,Highschool diploma,$150k+ : upper class,663
+WA,Not Caucasian,Highschool diploma,$15k - $35k: low income,390
+WA,Not Caucasian,Highschool diploma,$35k - $70k: middle class,664
+WA,Not Caucasian,Highschool diploma,$70 - $150k: upper middle class,883
+WA,Not Caucasian,No highschool diploma,$0 - $15k: living in poverty,934
+WA,Not Caucasian,No highschool diploma,$150k+ : upper class,2116
+WA,Not Caucasian,No highschool diploma,$15k - $35k: low income,1481
+WA,Not Caucasian,No highschool diploma,$35k - $70k: middle class,2552
+WA,Not Caucasian,No highschool diploma,$70 - $150k: upper middle class,2764
+WA,Not Caucasian,Undergraduate degree,$0 - $15k: living in poverty,141
+WA,Not Caucasian,Undergraduate degree,$150k+ : upper class,762
+WA,Not Caucasian,Undergraduate degree,$15k - $35k: low income,209
+WA,Not Caucasian,Undergraduate degree,$35k - $70k: middle class,422
+WA,Not Caucasian,Undergraduate degree,$70 - $150k: upper middle class,817
+WI,Caucasian,Graduate degree or more,$0 - $15k: living in poverty,86
+WI,Caucasian,Graduate degree or more,$150k+ : upper class,1306
+WI,Caucasian,Graduate degree or more,$15k - $35k: low income,208
+WI,Caucasian,Graduate degree or more,$35k - $70k: middle class,642
+WI,Caucasian,Graduate degree or more,$70 - $150k: upper middle class,1496
+WI,Caucasian,Highschool diploma,$0 - $15k: living in poverty,737
+WI,Caucasian,Highschool diploma,$150k+ : upper class,1646
+WI,Caucasian,Highschool diploma,$15k - $35k: low income,1405
+WI,Caucasian,Highschool diploma,$35k - $70k: middle class,3030
+WI,Caucasian,Highschool diploma,$70 - $150k: upper middle class,4339
+WI,Caucasian,No highschool diploma,$0 - $15k: living in poverty,2278
+WI,Caucasian,No highschool diploma,$150k+ : upper class,4575
+WI,Caucasian,No highschool diploma,$15k - $35k: low income,4959
+WI,Caucasian,No highschool diploma,$35k - $70k: middle class,9266
+WI,Caucasian,No highschool diploma,$70 - $150k: upper middle class,10803
+WI,Caucasian,Undergraduate degree,$0 - $15k: living in poverty,288
+WI,Caucasian,Undergraduate degree,$150k+ : upper class,1722
+WI,Caucasian,Undergraduate degree,$15k - $35k: low income,700
+WI,Caucasian,Undergraduate degree,$35k - $70k: middle class,1799
+WI,Caucasian,Undergraduate degree,$70 - $150k: upper middle class,3253
+WI,Not Caucasian,Graduate degree or more,$0 - $15k: living in poverty,21
+WI,Not Caucasian,Graduate degree or more,$150k+ : upper class,79
+WI,Not Caucasian,Graduate degree or more,$15k - $35k: low income,23
+WI,Not Caucasian,Graduate degree or more,$35k - $70k: middle class,65
+WI,Not Caucasian,Graduate degree or more,$70 - $150k: upper middle class,102
+WI,Not Caucasian,Highschool diploma,$0 - $15k: living in poverty,129
+WI,Not Caucasian,Highschool diploma,$150k+ : upper class,205
+WI,Not Caucasian,Highschool diploma,$15k - $35k: low income,144
+WI,Not Caucasian,Highschool diploma,$35k - $70k: middle class,218
+WI,Not Caucasian,Highschool diploma,$70 - $150k: upper middle class,183
+WI,Not Caucasian,No highschool diploma,$0 - $15k: living in poverty,546
+WI,Not Caucasian,No highschool diploma,$150k+ : upper class,690
+WI,Not Caucasian,No highschool diploma,$15k - $35k: low income,713
+WI,Not Caucasian,No highschool diploma,$35k - $70k: middle class,946
+WI,Not Caucasian,No highschool diploma,$70 - $150k: upper middle class,811
+WI,Not Caucasian,Undergraduate degree,$0 - $15k: living in poverty,21
+WI,Not Caucasian,Undergraduate degree,$150k+ : upper class,95
+WI,Not Caucasian,Undergraduate degree,$15k - $35k: low income,47
+WI,Not Caucasian,Undergraduate degree,$35k - $70k: middle class,92
+WI,Not Caucasian,Undergraduate degree,$70 - $150k: upper middle class,165
+WV,Caucasian,Graduate degree or more,$0 - $15k: living in poverty,37
+WV,Caucasian,Graduate degree or more,$150k+ : upper class,281
+WV,Caucasian,Graduate degree or more,$15k - $35k: low income,74
+WV,Caucasian,Graduate degree or more,$35k - $70k: middle class,253
+WV,Caucasian,Graduate degree or more,$70 - $150k: upper middle class,513
+WV,Caucasian,Highschool diploma,$0 - $15k: living in poverty,330
+WV,Caucasian,Highschool diploma,$150k+ : upper class,377
+WV,Caucasian,Highschool diploma,$15k - $35k: low income,511
+WV,Caucasian,Highschool diploma,$35k - $70k: middle class,772
+WV,Caucasian,Highschool diploma,$70 - $150k: upper middle class,854
+WV,Caucasian,No highschool diploma,$0 - $15k: living in poverty,1639
+WV,Caucasian,No highschool diploma,$150k+ : upper class,1164
+WV,Caucasian,No highschool diploma,$15k - $35k: low income,2582
+WV,Caucasian,No highschool diploma,$35k - $70k: middle class,3201
+WV,Caucasian,No highschool diploma,$70 - $150k: upper middle class,2682
+WV,Caucasian,Undergraduate degree,$0 - $15k: living in poverty,99
+WV,Caucasian,Undergraduate degree,$150k+ : upper class,276
+WV,Caucasian,Undergraduate degree,$15k - $35k: low income,231
+WV,Caucasian,Undergraduate degree,$35k - $70k: middle class,459
+WV,Caucasian,Undergraduate degree,$70 - $150k: upper middle class,676
+WV,Not Caucasian,Graduate degree or more,$0 - $15k: living in poverty,5
+WV,Not Caucasian,Graduate degree or more,$150k+ : upper class,22
+WV,Not Caucasian,Graduate degree or more,$15k - $35k: low income,7
+WV,Not Caucasian,Graduate degree or more,$35k - $70k: middle class,13
+WV,Not Caucasian,Graduate degree or more,$70 - $150k: upper middle class,20
+WV,Not Caucasian,Highschool diploma,$0 - $15k: living in poverty,30
+WV,Not Caucasian,Highschool diploma,$150k+ : upper class,50
+WV,Not Caucasian,Highschool diploma,$15k - $35k: low income,47
+WV,Not Caucasian,Highschool diploma,$35k - $70k: middle class,29
+WV,Not Caucasian,Highschool diploma,$70 - $150k: upper middle class,28
+WV,Not Caucasian,No highschool diploma,$0 - $15k: living in poverty,132
+WV,Not Caucasian,No highschool diploma,$150k+ : upper class,181
+WV,Not Caucasian,No highschool diploma,$15k - $35k: low income,163
+WV,Not Caucasian,No highschool diploma,$35k - $70k: middle class,119
+WV,Not Caucasian,No highschool diploma,$70 - $150k: upper middle class,109
+WV,Not Caucasian,Undergraduate degree,$0 - $15k: living in poverty,16
+WV,Not Caucasian,Undergraduate degree,$150k+ : upper class,17
+WV,Not Caucasian,Undergraduate degree,$15k - $35k: low income,25
+WV,Not Caucasian,Undergraduate degree,$35k - $70k: middle class,16
+WV,Not Caucasian,Undergraduate degree,$70 - $150k: upper middle class,26
+WY,Caucasian,Graduate degree or more,$0 - $15k: living in poverty,10
+WY,Caucasian,Graduate degree or more,$150k+ : upper class,98
+WY,Caucasian,Graduate degree or more,$15k - $35k: low income,27
+WY,Caucasian,Graduate degree or more,$35k - $70k: middle class,79
+WY,Caucasian,Graduate degree or more,$70 - $150k: upper middle class,167
+WY,Caucasian,Highschool diploma,$0 - $15k: living in poverty,112
+WY,Caucasian,Highschool diploma,$150k+ : upper class,186
+WY,Caucasian,Highschool diploma,$15k - $35k: low income,178
+WY,Caucasian,Highschool diploma,$35k - $70k: middle class,353
+WY,Caucasian,Highschool diploma,$70 - $150k: upper middle class,394
+WY,Caucasian,No highschool diploma,$0 - $15k: living in poverty,229
+WY,Caucasian,No highschool diploma,$150k+ : upper class,401
+WY,Caucasian,No highschool diploma,$15k - $35k: low income,450
+WY,Caucasian,No highschool diploma,$35k - $70k: middle class,814
+WY,Caucasian,No highschool diploma,$70 - $150k: upper middle class,965
+WY,Caucasian,Undergraduate degree,$0 - $15k: living in poverty,40
+WY,Caucasian,Undergraduate degree,$150k+ : upper class,135
+WY,Caucasian,Undergraduate degree,$15k - $35k: low income,78
+WY,Caucasian,Undergraduate degree,$35k - $70k: middle class,179
+WY,Caucasian,Undergraduate degree,$70 - $150k: upper middle class,246
+WY,Not Caucasian,Graduate degree or more,$0 - $15k: living in poverty,2
+WY,Not Caucasian,Graduate degree or more,$150k+ : upper class,1
+WY,Not Caucasian,Graduate degree or more,$15k - $35k: low income,1
+WY,Not Caucasian,Graduate degree or more,$35k - $70k: middle class,5
+WY,Not Caucasian,Graduate degree or more,$70 - $150k: upper middle class,6
+WY,Not Caucasian,Highschool diploma,$0 - $15k: living in poverty,11
+WY,Not Caucasian,Highschool diploma,$150k+ : upper class,13
+WY,Not Caucasian,Highschool diploma,$15k - $35k: low income,24
+WY,Not Caucasian,Highschool diploma,$35k - $70k: middle class,27
+WY,Not Caucasian,Highschool diploma,$70 - $150k: upper middle class,37
+WY,Not Caucasian,No highschool diploma,$0 - $15k: living in poverty,59
+WY,Not Caucasian,No highschool diploma,$150k+ : upper class,32
+WY,Not Caucasian,No highschool diploma,$15k - $35k: low income,89
+WY,Not Caucasian,No highschool diploma,$35k - $70k: middle class,122
+WY,Not Caucasian,No highschool diploma,$70 - $150k: upper middle class,129
+WY,Not Caucasian,Undergraduate degree,$0 - $15k: living in poverty,6
+WY,Not Caucasian,Undergraduate degree,$150k+ : upper class,9
+WY,Not Caucasian,Undergraduate degree,$15k - $35k: low income,5
+WY,Not Caucasian,Undergraduate degree,$35k - $70k: middle class,7
+WY,Not Caucasian,Undergraduate degree,$70 - $150k: upper middle class,14
