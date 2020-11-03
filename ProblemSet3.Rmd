@@ -1,0 +1,247 @@
+---
+title: "Multilevel Logistic Model on the proportion of voters for Trump and Biden"
+author: "Benjamin Zhang, Daniel Leung, Diane Kim, Pablo Mercado"
+date: "11/2/2020"
+output: pdf_document
+---
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+library(tidyverse)
+library(brms)
+library(broom)
+library(lme4)
+library(knitr)
+
+# Loading in the cleaned survey Data
+survey_data <- read_csv("outputs/survey_data.csv")
+
+# Loading in the cleaned census Data
+census_data <- read_csv("outputs/census_data.csv")
+
+```
+
+
+# Model
+
+Here we are interested in predicting the popular vote outcome of the 2020 American federal election using the survey data by Democracy Fund Voter Study Group to create a model. Then we will apply a postratisfication of the model with the census data by IPUMS USA. In the following sub-sections I will describe the model specifics and the post-stratification calculation.
+
+
+## Model Specifics
+To determine the likelihood of an individual to vote for a specific candidate in the upcoming election, voter survey data from June 25th 2020 (democracy fund voter study group) was used to generate two multilevel logistic regression models, one for Trump and one for Biden. First, individual responses were stratified by state, and then three survey results: family income, race and education, were specifically chosen as independent variables for the models. The first of these variables, family income, has been separated into 5 different income categories: 0 - 15k: living in poverty, 15k - 35k: low income, 35k - 70k: middle class, 70 - 150k: upper middle class, and 150k+ : upper class. Responder’s race has been categorized under two categories, caucasian and non-caucasian. If the survey result of an individual’s race is “mixed”, they will also be treated as non-caucasian. Finally, the degree of education received is divided into four categories according to the highest academic degree achieved by an individual: no highschool diploma, highschool diploma, undergraduate diploma, and graduate diploma. Each of these categorical variables were then implemented as dummy variables within the logistic regression model.  The following is a given equation for the probability of an individual to vote trump. 
+
+$$ \widehat{y}  =\log(\frac{p_{vote}}{1-p_{vote}}) = \beta_0+\beta_1  x_{income} +\beta_2  x_{race}+\beta_3  x_{education}+ \epsilon$$
+$$\beta_0 = r_{0} + r_{1}w_{state} + u $$
+This is the general model that we will apply to both Trump and Biden. Where $y$ represents the proportion of voters who will vote for Donald Trump or Joe Biden. Similarly, $\beta_0$ represents the intercept of the model, and is the probability of voting for Donald Trump or Joe Biden at having a household income of 0 - 15k: living in poverty, caucasian, and no highschool diploma. Additionally, $\beta_1$ represents the slope of the model for each income bracket, $\beta_2$ represents the slope of the model for race, and $\beta_3$ represents the slope of the model for each education bracket. $\beta_0$ is dependent on each state since the this is a multilevel regression. Where $r_{0}$ is the intercept and $r_{1}$ is the slope of model depending on the state. $\epsilon$ and $u$ are the errors.
+
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+
+survey_data$education <- factor(survey_data$education, levels = c("No highschool diploma",
+                                                                  "Highschool diploma",
+                                                                  "Undergraduate degree",
+                                                                  "Graduate degree or more"))
+
+#freguennist 
+model1 <- glmer(vote_trump ~ race_ethnicity + household_income + education +
+               (1|state), data = survey_data, family = binomial)
+
+```
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+
+survey_data$education <- factor(survey_data$education, levels = c("No highschool diploma",
+                                                                  "Highschool diploma",
+                                                                  "Undergraduate degree",
+                                                                  "Graduate degree or more"))
+
+#freguennist 
+model2 <- glmer(vote_biden ~ race_ethnicity + household_income + education +
+               (1|state), data = survey_data, family = binomial)
+
+
+```
+
+## Post-Stratification 
+
+In order to estimate the proportion of voters who will vote for Donald Trump and Joe Biden I need to perform a post-stratification analysis. We postratified using the results from the voter study group using the census data, with individuals being separated into different cells based on state, family income, race, and education. By using our logistic regression model, we calculate a predicted voting outcome within our survey data based on those different cells from our census data. Next, each cell’s predicted estimate is weighted by its respective population from the census data.  So the results from this post-stratifying can be used to predict how people in each cell would vote based on their family income, race, and amount of education. These variables were used in the poststratification because the logistic model indicated that they have some influence on voter outcome.
+
+$$\widehat{y}^{PS} = \frac{\sum N_j \widehat{y}_j}{\sum N_j }  $$
+
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+
+# Here I will perform the post-stratification calculation
+
+census_data$logodds_estimate <-
+  model1 %>%
+  predict(newdata = census_data)
+
+census_data$logodds_estimate2 <-
+  model2 %>%
+  predict(newdata = census_data)
+
+census_data$estimate <-
+  exp(census_data$logodds_estimate)/(1+exp(census_data$logodds_estimate))
+
+census_data$estimate2 <-
+  exp(census_data$logodds_estimate2)/(1+exp(census_data$logodds_estimate2))
+
+
+```
+
+
+# Results
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+
+
+Equation_values1<-coef(summary(model1))[,1]
+Equation_values1<-data.frame(as.list(Equation_values1))
+Equation_P1<-coef(summary(model1))[,4]
+Equation_P1<-data.frame(as.list(Equation_P1))
+
+Equation_P1 <- pivot_longer(Equation_P1, cols = 1:9, names_to = "Coefficients", values_to = "P-value")
+Equation_values1 <- pivot_longer(Equation_values1, cols = 1:9, names_to = "Coefficients",
+                                 values_to =   "intercept")
+
+equation <- merge(Equation_P1,Equation_values1, by = "Coefficients")
+
+kable(equation, caption = "Trump")
+```
+
+In our logistic regression model, several weight parameters were more influential and significant than others. Specifically in our Trump logistic model, the weight values of household income and race were extremely significant (P < 0.01). Increases in household income values appeared to positive correlate with the probability of an individual voting Trump. Furthermore, the model revealed the greatest influence on a person’s voter outcome was their race/ethinicity. Individuals who weren’t caucasian and came from an ethnic minority group were less inclined to vote Trump. Surprisingly none of the weight parameters for the education variables were statistically significant. Suggesting that the likelihood of an individual to vote Trump is irrespective of degree of education. 
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+
+
+Equation_values2<-coef(summary(model2))[,1]
+Equation_values2<-data.frame(as.list(Equation_values2))
+Equation_P2<-coef(summary(model2))[,4]
+Equation_P2<-data.frame(as.list(Equation_P2))
+
+Equation_P2 <- pivot_longer(Equation_P2, cols = 1:9, names_to = "Coefficients", values_to = "P-value")
+Equation_values2 <- pivot_longer(Equation_values2, cols = 1:9, names_to = "Coefficients",
+                                 values_to =   "intercept")
+
+equation2 <- merge(Equation_P2,Equation_values2, by = "Coefficients")
+
+kable(equation2, caption = "Biden")
+
+```
+
+Running our logistic regression model on Biden voting outcomes, our model revealed that a different set of variables seemed to contribute to a voter’s decision to vote for Biden. In this model, all of the weight parameter values for race and degree of education were statistically significant (P < 0.01). Household income values only seemed to play a role when an individual’s household makes more than $150 000 annually. According to our model, the greatest influence on whether an individual votes Biden seems to be race, Individuals who are ethnically non-caucasian are more inclined to vote for Biden. Furthermore, the probability for an individual to vote Biden positively correlates with degree of education. Therefore, the subset of individuals who are non-white, have a graduate degree, and live in a middle-class family have the highest probability of voting for Biden. 
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE, fig.height = 3, fig.width = 7}
+
+#graph
+
+census_data %>%
+  ggplot(aes(y = sum(estimate*n)/sum(n),x =forcats::fct_inorder(state),color ="MRP estimate")) +
+  geom_point() +
+  ggtitle("Graph 1: Proportion of Trump voters in each State compared to the MRP estimate") +
+  ylab("Proportion Trump Support") +
+  xlab("State") +
+  geom_point(data = survey_data %>%
+               group_by(state, vote_trump) %>%
+               summarise(n = n()) %>% 
+               group_by(state) %>% 
+               mutate(prop =n/sum(n)) %>%
+               filter(vote_trump==1),
+             aes(state, prop,color ="State Estimate by Survey data")) +
+  theme_minimal() +
+  scale_color_brewer(palette ="Set1") +
+  theme(legend.position ="bottom") +
+  theme(legend.title =element_blank()) +
+  theme(axis.text.x=element_text(angle=90, hjust=1))
+```
+
+The figure above represents the percentage of Trump supporters within each state recorded by the recent survey data. The red dots representing the popularity vote MRP estimate and the blue dots being the collected voting survey results from June 25th 2020. Trump support being highest in South Dakota and Kansas. 
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE, fig.height = 3, fig.width = 7}
+census_data %>%
+  ggplot(aes(y = sum(estimate2*n)/sum(n),x =forcats::fct_inorder(state),color ="MRP estimate")) +
+  geom_point() +
+  ggtitle("Graph 2: Proportion of Biden voters in each State compared to the MRP estimate") +
+  ylab("Proportion Biden Support") +
+  xlab("State") +
+  geom_point(data = survey_data %>%
+               group_by(state, vote_biden) %>%
+               summarise(n = n()) %>% 
+               group_by(state) %>% 
+               mutate(prop =n/sum(n)) %>%
+               filter(vote_biden==1),
+             aes(state, prop,color ="State Estimate by Survey data")) +
+  theme_minimal() +
+  scale_color_brewer(palette ="Set1") +
+  theme(legend.position ="bottom") +
+  theme(legend.title =element_blank()) +
+  theme(axis.text.x=element_text(angle=90, hjust=1))
+
+```
+
+The figure above represents the percentage of Biden supporters within each state recorded by the recent survey data. The red dots representing the popularity vote MRP estimate for Biden and the blue dots are values from the voting survey results from June 25th 2020. Support for Biden being greatest in both Vermont and Washing DC. The model however seems to be slightly under predicting Biden’s voting percentage. 
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+census_data %>%
+  mutate(alp_predict_prop = estimate*n,
+         alp_predict_prop2 = estimate2*n) %>%
+  summarise(alp_predict_trump = sum(alp_predict_prop)/sum(n),
+            alp_predict_biden = sum(alp_predict_prop2)/sum(n))
+
+```
+
+Our model predicts that Trump will win the 2020 election. Specifically, 42.7% of the population has decided on voting Trump and 36.7% has decided on voting Biden. These values however don’t add up to 100%, and thus it seems to suggest that the resulting 20.6% of voters are still undecided. 
+
+# Discussion
+
+The results of our multilevel regression study concluded that Trump would be the winner of the 2020 election. However a great number of individuals are still undecided and recent campaigning efforts may change these results. 
+
+The greatest impact on whether an individual votes for Trump or Biden seems to be race, with white people favouring Trump and non-white people favouring Biden. Part of the reasoning for this difference seems to be the nature of Trump’s campaigning. Trump has a tendency to be prejudiced against non-whites, with many of his slogans from his 2016 campaign such as “We need to build a wall” being blatantly discriminatory towards immigrants and minority groups. As a result, these influences may be why non-white voters have been less approving of Trump, and are more likely to vote for Biden.
+
+Household income is also a significant factor when it comes to voting for Trump. As noted earlier in the model section, there is a positive correlation with income where richer people are more likely to vote for Trump. In contrast, with Biden, the only income value that is significant is whether someone has a family income of more than $150,000; and If they do, then that has a negative impact on whether they’ll vote for him. Possible reasonings for this discrepancy is due to the nature of republican belief and policies. Republicans are more conservative with money spending and funding. As a result they tend to introduce policies that are more lenient on taxation and thus, individuals with higher income, tend to prefer having more “right-winged”. 
+
+Lastly, people who are more educated are more likely to vote for Biden. This could be due to Trump having a history of disregarding experts in their fields of people in higher level education. This could also be representative of his campaigning style, mainly revolving around using general emotion of his supporters to win them over, since people with higher levels of education may be more resistant to these techniques.  
+
+## Weaknesses
+
+The sample and census data only gives us probability of whether the individual is voting for Trump or not and not if they are voting for Biden or neither. This may be helpful in determining who wins the next US election, however there are still some limitations in regards to our variables. 
+
+A major concern of our model is the use of family income as a representation of financial state. Income is important, but we do not get the full picture. For example, we do not know if the individual’s “family '' consists of a single individual, or someone who is married but with no children, or married with no children, etc. With this in mind, how the family income would be divided depends on the kind of family. For example, someone with children would have to pour a lot of their income towards childcare compared to someone who doesn’t have children. In addition, the region where they live in is something to consider.. While we know the state they live in, we do not know what sort of neighborhood they live in; for instance, whether they live in the city or suburban areas. Costs for households can vary heavily between the two areas. The choice in one’s household could be influenced based on how many individuals are in a family, with bigger families requiring more of their income to go towards bigger living spaces.
+
+## Next Steps
+
+This calculation is based on popular vote but the winner of the presidential elections are not determined in this method and it is possible to win the popular vote but lose the election. The winner is determined by getting the majority of electoral college votes where there are 538 electors that vote based on the popular vote. Electors are divided among states but they are not divided equally which is why the voting outcome can be different from the popular vote. Our report used popular vote to determine voting outcome instead of electoral college votes so it may not be accurate. Since we didn’t know much about the electoral colleges when writing this report, we couldn’t use them to predict the voting outcome in this way. However in the future, using electoral college votes would be a more accurate method instead of the one that we used.
+
+
+# References
+
+Blum, Benjamin. Understanding the Electoral College and How the U.S. President Is Really 
+Elected | CBC News. 26 Oct. 2020, 
+www.cbc.ca/news/world/electoral-college-explainer-1.5768507.
+
+Ruggles, Steven, et al. “U.S. CENSUS DATA FOR SOCIAL, ECONOMIC, AND HEALTH 
+RESEARCH.” IPUMS USA, Minneapolis, MN: IPUMS, 2020 (version 10.0), doi.org/10.18128/D010.V10.0.
+
+Snider, Susannah. “Where Do I Fall in the American Economic Class System?” U.S. News & 
+World Report, U.S. News & World Report L. P, 29 Oct. 2019, 
+money.usnews.com/money/personal-finance/family-finance/articles/where-do-i-fall-in-the
+-american-economic-class-system.
+
+Tausanovitch, Chris, and Lynn Vavreck. “Insights into the Beliefs and Behaviors of American 
+Voters.” Democracy Fund Voter Study Group, Democracy Fund + UCLA Nationscape, 
+10 Oct. 2019 (version 20200814), 
+www.voterstudygroup.org/downloads?key=41f75fff-0967-42e0-8e3c-d30e598bb539.
+
+“U.S. Census Bureau QuickFacts: United States.” Census Bureau QuickFacts: United Status, 
+U.S. Department of Commerce, 2019, 
+www.census.gov/quickfacts/fact/table/US/PST045219.
+
+Duffin, Erin. “Percentage distribution of household income in the U.S. in 2019”, Statista. 9 Oct 
+2020. 
+https://www.statista.com/statistics/203183/percentage-distribution-of-household-income-i
+n-the-us/
+
+
+
+
+
